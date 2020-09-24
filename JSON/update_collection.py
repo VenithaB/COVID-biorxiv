@@ -11,7 +11,8 @@ import subprocess
 #import pandas
 
 #os.chdir("/home/group_bioIT01/Venitha/Test")
-os.chdir("D:/My Documents/GitHub/COVID-biorxiv/JSON/")
+#os.chdir("D:/My Documents/GitHub/COVID-biorxiv/JSON/")
+os.chdir("/home/dell/Documents/Venitha/COVID_19_Meta/General/COVID-biorxiv/JSON")
 
 def execute_commandRealtime(cmd):
     """Execute shell command and print stdout in realtime.
@@ -44,10 +45,22 @@ def update_collection():
 #update_collection()
 
 result = []
+i=0
 for f in glob.glob("*.json"):
-    with open(f, "r") as infile:
-        #result.extend(json.load(infile))
-        print(type(json.load(infile)))
+	with open(f, "r") as infile:
+		i = i+1
+		print(i)
+		print("Name of file is: ",str(infile))
+		temp = json.load(infile)
+		#print("Temp is ",type(temp))
+		for number1, entry1 in enumerate(temp):
+			print("Number 1 is: ",number1)
+			if entry1 == "collection":
+				temp2 = temp[entry1]
+				for number2, entry2 in enumerate(temp2):
+					#print("Entry is ",type(entry))
+					print("Number 2 is: ",number2)
+					result.extend(temp2)
 
 with open("collection.json", "w") as outfile:
-     json.dump(result, outfile)
+	json.dump(result, outfile)
