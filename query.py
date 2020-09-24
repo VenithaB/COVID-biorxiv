@@ -1,8 +1,9 @@
-import sys
+import os
 import json
-import requests
 import subprocess
 from datetime import datetime
+
+os.chdir("D:\My Documents\GitHub\COVID-biorxiv")
 
 #dict storing data
 collection={}
@@ -24,36 +25,33 @@ def execute_commandRealtime(cmd):
     if return_code:
         raise subprocess.CalledProcessError(return_code, cmd)
 
-
-def update_collection():
-    '''
-    Download bioarxiv and medarxiv collections
-    '''
-    link='https://connect.biorxiv.org/relate/collection_json.php?grp=181'
-    outfile='collection.json'
-    print('Downloading ...')
-    for output in execute_commandRealtime(['curl','-o',outfile,link]):
-        print (output)
-
 def read_collection():
     '''
     open file
     '''
     filename='collection.json'
-    with open(filename) as f:
+    with open(filename, "r") as f:
         data = json.load(f)
-    i=0
-    for key,value in data.items() :
-        #print (key,":",value)
-        if key=='rels':
-            val=data[key]
-            print('{} records found'.format(len(val)))
-            return value
+    for i, entry_one in enumerate(data): 
+        temp = entry_one["collection"]
+        print(i)
+        print(temp)
+        #for j, entry_two in enumerate(temp):
+         #       return temp[j]
+            #print("Entry two is ",type(entry_two))
+            #print(len(entry_two["rel_title"]))
+            #print("j is",j)
+            #print(entry_two["rel_title"])
+            #for key, value in entry_two.items:
+            #    val=entry_two[key]
+            #    print('{} records found \n'.format(len(val)))
+            #return value
 
 def get_terms():
     print('Available terms:')
     for key,value in collection[0].items():
         print(key)
+    print("\n")
 
 def searchall(keywords):
     result=[]
@@ -63,14 +61,14 @@ def searchall(keywords):
 
 def search(term):
     #search in collection is a list of dicts
-    print('Searching',term)
+    print('Searching for term: ',term,'\n')
     result=[]
-    for d in collection:
+    for file, entry in enumerate(collection):
         #seach in all keys
-        for key,value in d.items():
+        for key,value in entry.items():
             if term.lower() in str(value).lower():
                 #print (d['rel_title'])
-                result.append(d)
+                result.append(entry)
     #print('total matches: {}'.format(len(result)))
     return result
 
@@ -92,9 +90,6 @@ def filter_date(res,startdate):
             filtered.append(d)
     return filtered
 
-#step 1 update collection downloads around 15 MB .json data
-#update_collection()
-
 #read collection in memory
 collection=read_collection()
 
@@ -103,13 +98,13 @@ collection=read_collection()
 
 #perform search
 #res=search(' RNA-seq')
-tosearch=[' RNA-seq','transcriptom','express','sequencing']
-res=searchall(tosearch)
-print(len(res))
-print(len(get_title(res)))
-fdate=datetime.strptime('2020-06-25', '%Y-%m-%d')
-print('filtering results before',fdate)
+#tosearch=['proteomics','proteome','mass spectrometry']
+#res=searchall(tosearch)
+#print(len(res))
+#print(len(get_title(res)))
+#fdate=datetime.strptime('2020-09-15', '%Y-%m-%d')
+#print('filtering results before',fdate)
 
-final_res=get_title(filter_date(res,fdate))
-print(len(final_res))
-print('\n'.join(final_res))
+#final_res=get_title(filter_date(res,fdate))
+#print(len(final_res))
+#print('\n'.join(final_res))
