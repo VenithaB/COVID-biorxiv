@@ -37,16 +37,16 @@ def read_collection():
         return data
 
 def get_terms():
-    print('Available terms: \n')
-    for number, entry in enumerate(collection):
-    	x = []
-    	for keys,values in entry.items():
-    		x.append(keys)
-    	return(np.unique(np.array(x)))
+	print('Available terms: \n')
+	for number, entry in enumerate(collection):
+		x=[]
+		for keys, values in entry.items():
+			x.append(keys)
+		return(np.unique(np.array(x)))
     	
 def search(term):
 	#search in collection is a list of dicts
-	print('Searching',term)
+	print('\nSearching for keyword',term)
 	result=[]
 	for d in collection:
 	#search in all keys
@@ -63,14 +63,16 @@ def searchall(keywords):
 	return result
 	
 def removedupes(result):
+	seen=[]
+	new_l=[]
 	for d in result:
 		t = tuple(d.items())
 		if t not in seen:
 			seen.append(t)
 			new_l.append(d)
-		return(new_l)
-		print("Number of matches for keywords ",tosearch," is :",len(new_l))
-
+	print("\nNumber of matches for keywords ",tosearch,"after removing duplicates is :",len(new_l))
+	return(new_l)
+	
 def get_title(res):
     titles=[]
     for d in res:
@@ -83,7 +85,7 @@ def filter_date(res,startdate):
     '''
     keep results by date
     '''
-    print('filtering results before',startdate)
+    print('\nFiltering results before',startdate)
     filtered=[]
     for d in res:
         if datetime.strptime(d['rel_date'], '%Y-%m-%d')>=startdate:
@@ -93,10 +95,10 @@ def filter_date(res,startdate):
 #read collection in memory
 collection=read_collection()
 
-print("Collection is of type : ",type(collection), "where its is an list of dictionaries")
+print("JSON API Collection is of type : ",type(collection), "where it is a list of dictionaries \n")
 
 #see available terms
-get_terms()
+print(get_terms())
 
 #perform search
 
@@ -114,5 +116,13 @@ filt_res=removedupes(res)
 fdate=datetime.strptime('2020-09-15', '%Y-%m-%d')
 final_res=get_title(filter_date(filt_res,fdate))
 
-print("Number of records matching ",tosearch,"filtered before ",fdate,"is ",len(final_res))
+print("\nNumber of records matching ",tosearch,"filtered before ",fdate,"is ",len(final_res),"\n")
+
+filename=datetime.today().strftime('%Y-%m-%d') + ".txt"
+
+print("\nWriting results to file ",filename,"\n")
+
+with open(filename, 'w') as f:
+    for item in final_res:
+        f.write("%s\n" % item)
 
