@@ -1,4 +1,4 @@
-# COVID-biorxiv
+# COVID-biorxiv-medarxiv
 
 Description: Flexible Python based query to interrogate the biorxiv and medRxiv COVID-19 collection
 
