@@ -80,6 +80,20 @@ def get_title(res):
         #print(d['rel_title'])
     return titles
 
+def get_date(res):
+    dates=[]
+    for d in res:
+        if not d['rel_date'] in dates:
+            dates.append(d['rel_date'])
+    return dates
+
+def get_doi(res):
+    dois=[]
+    for d in res:
+        if not d['rel_doi'] in dois:
+            dois.append(d['rel_doi'])
+    return dois
+
 def filter_date(res,startdate):
     '''
     keep results by date
@@ -116,13 +130,20 @@ filt_res=removedupes(res)
 fdate=datetime.strptime('2020-09-15', '%Y-%m-%d')
 final_res=get_title(filter_date(filt_res,fdate))
 
+final_res_date=get_date(filter_date(filt_res,fdate))
+final_res_doi=get_doi(filter_date(filt_res,fdate))
+
 print("\nNumber of records matching ",tosearch,"filtered before ",fdate,"is ",len(final_res),"\n")
 
 filename=datetime.today().strftime('%Y-%m-%d') + ".txt"
 
 print("\nWriting results to file ",filename,"\n")
 
-with open(filename, 'w') as f:
-    for item in final_res:
+with open("date_" + filename, 'w') as f:
+    for item in final_res_date:
+        f.write("%s\n" % item)
+
+with open("doi_" + filename, 'w') as f:
+    for item in final_res_doi:
         f.write("%s\n" % item)
 
