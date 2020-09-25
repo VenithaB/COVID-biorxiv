@@ -1,0 +1,93 @@
+A database resource for Genome-wide dynamics analysis of Coronaviruses on a historical and global scale
+COVID-19-related coagulopathy, is transferrin a missing link?
+A SARS-CoV-2 BioID-based virus-host membrane protein interactome and virus peptide compendium: new proteomics resources for COVID-19 research
+Virus-Receptor Interactions of Glycosylated SARS-CoV-2 Spike and Human ACE2 Receptor
+Virus-host interactome and proteomic survey of PMBCs from COVID-19 patients reveal potential virulence factors influencing SARS-CoV-2 pathogenesis
+Growth factor receptor signaling inhibition prevents SARS-CoV-2 replication
+Clinical classifiers of COVID-19 infection from novel ultra-high-throughput proteomics
+The IMEx Coronavirus interactome: an evolving map of Coronaviridae-Host molecular interactions
+A systems approach to inflammation identifies therapeutic targets in SARS-CoV-2 infection
+Comparative multiplexed interactomics of SARS-CoV-2 and homologous coronavirus non-structural proteins identifies unique and shared host-cell dependencies
+A distinct innate immune signature marks progression from mild to severe COVID-19
+Discovery of drugs to treat cytokine storm-induced cardiac dysfunction using human cardiac organoids
+Versatile, Multivalent Nanobody Cocktails for Highly Efficient SARS-CoV-2 Neutralization
+Evidence for structural protein damage and membrane lipid remodeling in red blood cells from COVID-19 patients
+SARS-CoV-2 proteome microarray for mapping COVID-19 antibody interactions at amino acid resolution
+Re-analysis of SARS-CoV-2 infected host cell proteomics time-course data by impact pathway analysis and network analysis. A potential link with inflammatory response.
+In silico approach to accelerate the development of mass spectrometry-based proteomics methods for detection of viral proteins: Application to COVID-19
+Assignment of coronavirus spike protein site-specific glycosylation using GlycReSoft
+Suppressive myeloid cells are a hallmark of severe COVID-19
+Candidate screening of host cell membrane proteins involved in SARS-CoV-2 entry
+ALTERED MOLECULAR PATHWAYS OBSERVED IN NASO-OROPHARYNGEAL SAMPLES OF SARS-CoV-2 PATIENTS
+Serum protein profiling reveals a landscape of inflammation and immune signaling in early-stage COVID-19 infection
+SARS-CoV-2 Nucleocapsid protein is decorated with multiple N- and O-glycans.
+Exploring diseases/traits and blood proteins causally related to expression of ACE2, the putative receptor of 2019-nCov: A Mendelian Randomization analysis
+Distinct early IgA profile may determine severity of COVID-19 symptoms: an immunological case series
+Sampling SARS-CoV-2 proteomes for predicted CD8 T-cell epitopes as a tool for understanding immunogenic breadth and rationale vaccine design
+Artificial intelligence predicts the immunogenic landscape of SARS-CoV-2: toward universal blueprints for vaccine designs
+Global variation in the SARS-CoV-2 proteome reveals the mutational hotspots in the drug and vaccine candidates
+Immunoinformatic identification of B cell and T cell epitopes in the SARS-CoV-2 proteome
+Global BioID-based SARS-CoV-2 proteins proximal interactome unveils novel ties between viral polypeptides and host factors involved in multiple COVID19-associated mechanisms
+Secondary analysis of transcriptomes of SARS-CoV-2 infection models to characterize COVID-19
+ReScan, a Multiplex Diagnostic Pipeline, Pans Human Sera for SARS-CoV-2 Antigens
+Antibody dynamics to SARS-CoV-2 in Asymptomatic and Mild COVID-19 patients
+Multi-level proteomics reveals host-perturbation strategies of SARS-CoV-2 and SARS-CoV
+Proteome-wide analysis of differentially-expressed SARS-CoV-2 antibodies in early COVID-19 infection
+Common low complexity regions for SARS-CoV-2 and human proteomes as potential multidirectional risk factor in vaccine development
+A SARS-CoV-2 Vaccination Strategy Focused on Population-Scale Immunity
+SARS-CoV2 (COVID-19) Structural/Evolution Dynamicome: Insights into functional evolution and human genomics.
+COVID-19 coronavirus vaccine design using reverse vaccinology and machine learning
+Inhibiting coronavirus replication in cultured cells by chemical ER stress
+Relevance of enriched expression of SARS-CoV-2 binding receptor ACE2 in gastrointestinal tissue with pathogenesis of digestive symptoms, diabetes-associated mortality, and disease recurrence in COVID-19 patients
+Global profiling of SARS-CoV-2 specific IgG/ IgM responses of convalescents using a proteome microarray
+Dark proteome of Newly Emerged SARS-CoV-2 in Comparison with Human and Bat Coronaviruses
+Shotgun proteomics of SARS-CoV-2 infected cells and its application to the optimisation of whole viral particle antigen production for vaccines
+Microscopy-based assay for semi-quantitative detection of SARS-CoV-2 specific antibodies in human sera
+CD8+ T cell cross-reactivity against SARS-CoV-2 conferred by other coronavirus strains and influenza virus
+Multi-organ Proteomic Landscape of COVID-19 Autopsies
+In silico Proteome analysis of Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+Multi-pronged human protein mimicry by SARS-CoV-2 reveals bifurcating potential for MHC detection and immune evasion
+Systematic modeling of SARS-CoV-2 protein structures
+Citizen Scientists Create an Exascale Computer to Combat COVID-19
+Modeling of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Proteins by Machine Learning and Physics-Based Refinement
+rSWeeP: A R/Bioconductor package deal with SWeeP sequences representation
+Human leukocyte antigen susceptibility map for SARS-CoV-2
+Urine Proteome of COVID-19 Patients
+SARS-CoV-2 3CLpro Whole Human Proteome Cleavage Prediction and Enrichment/Depletion Analysis
+The aging transcriptome and cellular landscape of the human lung in relation to SARS-CoV-2
+Vulnerabilities of the SARS-CoV-2 virus to proteotoxicity -- opportunity for repurposed chemotherapy of COVID-19 infection
+A direct RNA-protein interaction atlas of the SARS-CoV-2 RNA in infected human cells
+Identification of Immune complement function as a determinant of adverse SARS-CoV-2 infection outcome
+Computationally validated SARS-CoV-2 CTL and HTL Multi-Patch Vaccines designed by reverse epitomics approach, shows potential to cover large ethnically distributed human population worldwide
+Functional and druggability analysis of the SARS-CoV-2 proteome
+Scrutinizing the SARS-CoV-2 protein information for the designing an effective vaccine encompassing both the T-cell and B-cell epitopes
+A SARS-CoV-2 - host proximity interactome
+Compositional Variability and Mutation Spectra of Monophyletic SARS-CoV-2 Clades
+CETSA MS profiling for a comparative assessment of FDA approved antivirals repurposed for COVID-19 therapy identifies Trip13 as a Remdesivir off-target
+SARS-CoV2 spike protein displays biologically significant similarities with paramyxovirus surface proteins; a bioinformatics study
+Multi-Omics integration analysis of respiratory specimen characterizes baseline molecular determinants associated with COVID-19 diagnosis.
+In-depth blood proteome profiling analysis revealed distinct functional characteristics of plasma proteins between severe and non-severe COVID-19 patients
+Architecture and self-assembly of the SARS-CoV-2 nucleocapsid protein
+Deducing the N- and O- glycosylation profile of the spike protein of novel coronavirus SARS-CoV-2
+SARS CoV-2 nucleocapsid protein forms condensates with viral genomic RNA
+The Coronavirus Network Explorer: Mining a large-scale knowledge graph for effects of SARS-CoV-2 on host cell function
+A Combined approach of MALDI-TOF Mass Spectrometry and multivariate analysis as a potential tool for the detection of SARS-CoV-2 virus in nasopharyngeal swabs.
+Cryo-EM Structures of the SARS-CoV-2 Endoribonuclease Nsp15
+Mass Spectrometric Identification of SARS-CoV-2 Proteins from Gargle Solution Samples of COVID-19 Patients
+Crystallographic and electrophilic fragment screening of the SARS-CoV-2 main protease
+Characterisation of the transcriptome and proteome of SARS-CoV-2 using direct RNA sequencing and tandem mass spectrometry reveals evidence for a cell passage induced in-frame deletion in the spike glycoprotein that removes the furin-like cleavage site.
+Boceprevir, GC-376, and calpain inhibitors II, XII inhibit SARS-CoV-2 viral replication by targeting the viral main protease
+A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing
+The utility of native MS for understanding the mechanism of action of repurposed therapeutics in COVID-19: heparin as a disruptor of the SARS-CoV-2 interaction with its host cell receptor.
+Celebrex adjuvant therapy on COVID-19: An experimental study
+Allosteric inhibition of the SARS-CoV-2 main protease - insights from mass spectrometry-based assays
+Production of Trimeric SARS-CoV-2 Spike Protein by CHO Cells for Serological COVID-19 Testing
+Site-specific N-glycosylation Characterization of Recombinant SARS-CoV-2 Spike Proteins using High-Resolution Mass Spectrometry
+N-glycosylation network construction and analysis to modify glycans on the spike S glycoprotein of SARS-CoV-2.
+Mucin-type O-glycosylation Landscapes of SARS-CoV-2 Spike Proteins
+Proteotyping SARS-CoV-2 virus from nasopharyngeal swabs: a proof-of-concept focused on a 3 min mass spectrometry window
+Covid-19 automated diagnosis and risk assessment through Metabolomics and Machine-Learning
+A clinical MALDI-ToF Mass spectrometry assay for SARS-CoV-2: Rational design and multi-disciplinary team work.
+Development of mass spectrometry-based targeted assay for direct detection of novel SARS-CoV-2 coronavirus from clinical specimens
+TARGETED PROTEOMICS FOR THE DETECTION OF SARS-COV-2 PROTEINS.
+Large-scale Multi-omic Analysis of COVID-19 Severity

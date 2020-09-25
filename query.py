@@ -49,11 +49,10 @@ def search(term):
 	print('\nSearching for keyword',term)
 	result=[]
 	for d in collection:
-	#search in all keys
-		for key,value in d.items():
-			if term.lower() in str(value).lower():
-				result.append(d)
-	#return(np.unique(np.array(result)))
+		#search in all keys
+		if term.lower() in d['rel_abs'].lower():
+			result.append(d)
+			#return(np.unique(np.array(result)))
 	return(result)	
 	
 def searchall(keywords):
@@ -88,7 +87,7 @@ def filter_date(res,startdate):
     print('\nFiltering results before',startdate)
     filtered=[]
     for d in res:
-        if datetime.strptime(d['rel_date'], '%Y-%m-%d')>=startdate:
+        if datetime.strptime(d['rel_date'], '%Y-%m-%d')<=startdate:
             filtered.append(d)
     return filtered
 	  
@@ -108,6 +107,7 @@ print(get_terms())
 #multiple keyword search
 tosearch=['proteomics','proteome','mass spectrometry']
 res=searchall(tosearch)
+print("\nNumber of matches for keywords ",tosearch,"is :",len(res))
 
 #Remove duplicate records
 filt_res=removedupes(res)
