@@ -93,6 +93,27 @@ def get_doi(res):
         if not d['rel_doi'] in dois:
             dois.append(d['rel_doi'])
     return dois
+    
+def get_info(res):
+	titles=[]
+	dates=[]
+	dois=[]
+	for d in res:
+		if not d['rel_title'] in titles:
+			titles.append(d['rel_title'])
+			dates.append(d['rel_date'])
+			dois.append(d['rel_doi'])
+	filename=datetime.today().strftime('%Y-%m-%d')
+	with open("date_" + filename + ".txt", 'w') as f:
+		for item in dates:
+			f.write("%s\n" % item)
+
+	with open("doi_" + filename + ".txt", 'w') as f:
+		for item in dois:
+			f.write("%s\n" % item)
+	return titles
+		
+		
 
 def filter_date(res,startdate):
     '''
@@ -128,22 +149,24 @@ filt_res=removedupes(res)
 
 #Filtering by date
 fdate=datetime.strptime('2020-09-15', '%Y-%m-%d')
-final_res=get_title(filter_date(filt_res,fdate))
-
-final_res_date=get_date(filter_date(filt_res,fdate))
-final_res_doi=get_doi(filter_date(filt_res,fdate))
+final_res=get_info(filter_date(filt_res,fdate))
 
 print("\nNumber of records matching ",tosearch,"filtered before ",fdate,"is ",len(final_res),"\n")
 
-filename=datetime.today().strftime('%Y-%m-%d') + ".txt"
+filename=datetime.today().strftime('%Y-%m-%d')
 
-print("\nWriting results to file ",filename,"\n")
+print("\nWriting results to file ",filename + "txt","\n")
 
-with open("date_" + filename, 'w') as f:
-    for item in final_res_date:
+with open("title_" + filename + ".txt", 'w') as f:
+    for item in final_res:
         f.write("%s\n" % item)
+        
+command=['sed','"s/^/https:\/\/doi.org\//"',"doi_" + filename + ".txt",">","doi_" + filename+ "_edited" + ".txt"]
+command= " ".join(command)
 
-with open("doi_" + filename, 'w') as f:
-    for item in final_res_doi:
-        f.write("%s\n" % item)
+os.system(command)
 
+command=['paste',"title_" + filename + ".txt","date_" + filename + ".txt","doi_" + filename + "_edited" + ".txt",">",filename + ".csv"]
+command= " ".join(command)
+
+os.system(command)
