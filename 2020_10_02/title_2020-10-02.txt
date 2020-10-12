@@ -1,0 +1,665 @@
+The transmembrane serine protease inhibitors are potential antiviral drugs for 2019-nCoV targeting the insertion sequence-induced viral infectivity enhancement
+Direct RNA sequencing and early evolution of SARS-CoV-2
+The transcriptomic profiling of COVID-19 compared to SARS, MERS, Ebola, and H1N1
+Comparative transcriptome analysis reveals the intensive early-stage responses of host cells to SARS-CoV-2 infection
+The landscape of host genetic factors involved in infection to common viruses and SARS-CoV-2
+Cumulative effect of aging and SARS-CoV2 infection on poor prognosis in the elderly: Insights from transcriptomic analysis of lung and blood
+Pathogenicity, tissue tropism and potential vertical transmission of SARSr-CoV-2 in Malayan pangolins
+Cytotoxic lymphocytes are dysregulated in multisystem inflammatory syndrome in children
+Longitudinal peripheral blood transcriptional analysis of COVID-19 patients captures disease progression and reveals potential biomarkers
+The digestive system is a potential route of 2019-nCov infection: a bioinformatics analysis based on single-cell transcriptomes
+SARS-CoV-2 Whole Genome Amplification and Sequencing for Effective Population-Based Surveillance and Control of Viral Transmission
+Single-cell analysis of human trophoblast stem cell specification reveals activation of fetal cytotrophoblast expression programs including coronavirus associated host factors and human endogenous retroviruses
+Secondary analysis of transcriptomes of SARS-CoV-2 infection models to characterize COVID-19
+Single-cell screening of SARS-CoV-2 target cells in pets, livestock, poultry and wildlife
+Swarm Learning as a privacy-preserving machine learning approach for disease classification
+Comparative in vitro transcriptomic analyses of COVID-19 candidate therapy hydroxychloroquine suggest limited immunomodulatory evidence of SARS-CoV-2 host response genes.
+Single-cell transcriptional atlas of the Chinese horseshoe bat (Rhinolophus sinicus) provides insight into the cellular mechanisms which enable bats to be viral reservoirs
+Structure of the full SARS-CoV-2 RNA genome in infected cells
+Whole genome identification of potential G-quadruplexes and analysis of the G-quadruplex binding domain for SARS-CoV-2
+Elucidation of the antiviral mechanism of cystine and theanine through transcriptome analysis of mice and comparison with COVID-19 gene set data
+Single-cell RNA-seq and V(D)J profiling of immune cells in COVID-19 patients
+Decoding of persistent multiscale structures in complex biological networks
+Multi-level proteomics reveals host-perturbation strategies of SARS-CoV-2 and SARS-CoV
+Characterisation of the transcriptome and proteome of SARS-CoV-2 using direct RNA sequencing and tandem mass spectrometry reveals evidence for a cell passage induced in-frame deletion in the spike glycoprotein that removes the furin-like cleavage site.
+Nonstructural protein 1 of SARS-CoV-2 is a potent pathogenicity factor redirecting host protein synthesis machinery toward viral RNA.
+Atlas of ACE2 gene expression in mammals reveals novel insights in transmission of SARS-Cov-2
+Sequence analysis of SARS-CoV-2 genome reveals features important for vaccine design
+Transcriptional profiling reveals TRPM5-expressing cells involved in viral infection in the olfactory epithelium
+Noncanonical junctions in subgenomic RNAs of SARS-CoV-2 lead to variant open reading frames.
+Multiomic Immunophenotyping of COVID-19 Patients Reveals Early Infection Trajectories
+Blood single cell immune profiling reveals the interferon-MAPK pathway mediated adaptive immune response for COVID-19
+Upregulation of Human Endogenous Retroviruses in Bronchoalveolar Lavage Fluid of COVID-19 Patients
+An in silico map of the SARS-CoV-2 RNA Structurome
+Transcriptional Difference between SARS-COV-2 and other Human Coronaviruses Revealed by Sub-genomic RNA Profiling
+Immune transcriptomes of highly exposed SARS-CoV-2 asymptomatic seropositive versus seronegative individuals from the Ischgl community
+An intestinal cell type in zebrafish is the nexus for the SARS-CoV-2 receptor and the Renin-Angiotensin-Aldosterone System that contributes to COVID-19 comorbidities
+Structural Variants in SARS-CoV-2 Occur at Template-Switching Hotspots
+Transcriptomic profiling of disease severity in patients with COVID-19 reveals role of blood clotting and vasculature related genes
+ACE2 Expression is Increased in the Lungs of Patients with Comorbidities Associated with Severe COVID-19
+Single-cell atlas of a non-human primate reveals new pathogenic mechanisms of COVID-19
+The architecture of SARS-CoV-2 transcriptome
+MINERVA: A facile strategy for SARS-CoV-2 whole genome deep sequencing of clinical samples
+Dysregulated transcriptional responses to SARS-CoV-2 in the periphery support novel diagnostic approaches
+Hypertension and renin-angiotensin system blockers are not associated with expression of Angiotensin Converting Enzyme 2 (ACE2) in the kidney
+SARS-CoV-2 transcriptome analysis and molecular cataloguing of immunodominant epitopes for multi-epitope based vaccine design
+Longitudinal single-cell immune profiling revealed distinct innate immune response in asymptomatic COVID-19 patients
+Transcriptomic Similarities and Differences in Host Response between SARS-CoV-2 and Other Viral Infections
+Transcriptional response of signalling pathways to SARS-CoV-2 infection in normal human bronchial epithelial cells
+Severely ill COVID-19 patients display augmented functional properties in SARS-CoV-2-reactive CD8+ T cells
+Robust three-dimensional expansion of human adult alveolar stem cells and SARS-CoV-2 infection
+A data-driven drug repositioning framework discovered a potential therapeutic agent targeting COVID-19
+High-throughput SARS-CoV-2 and host genome sequencing from single nasopharyngeal swabs
+Comparative transcriptome analyses reveal genes associated with SARS-CoV-2 infection of human lung epithelial cells
+Integration of viral transcriptome sequencing with structure and sequence motifs predicts novel regulatory elements in SARS-CoV-2
+Hidden in plain sight: The effects of BCG vaccination in COVID-19 pandemic
+Cross-talk between the airway epithelium and activated immune cells defines severity in COVID-19
+Type 2 and interferon inflammation strongly regulate SARS-CoV-2 related gene expression in the airway epithelium
+The spatial and cell-type distribution of SARS-CoV-2 receptor ACE2 in human and mouse brain
+SARS-CoV-2 might manipulate against its host the immunity RNAi/Dicer/Ago system
+Small molecules inhibit SARS-COV-2 induced aberrant inflammation and viral replication in mice by targeting S100A8/A9-TLR4 axis
+Interaction network of SARS-CoV-2 with host receptome through spike protein
+Assembly of an integrated human lung cell atlas reveals that SARS-CoV-2 receptor is co-expressed with key elements of the kinin-kallikrein, renin-angiotensin and coagulation systems in alveolar cells
+Oligonucleotide capture sequencing of the SARS-CoV-2 genome and subgenomic fragments from COVID-19 individuals
+A-to-I RNA editing in SARS-COV-2: real or artifact?
+A modular framework for the development of targeted Covid-19 blood transcript profiling panels
+A CRISPR-based SARS-CoV-2 diagnostic assay that is robust against viral evolution and RNA editing
+Inhaled corticosteroids downregulate SARS-CoV-2-related gene expression in COPD: results from a RCT
+SARS-CoV-2 activates lung epithelia cell proinflammatory signaling and leads to immune dysregulation in COVID-19 patients by single-cell sequencing
+Identification of Three Endotypes in Pediatric Acute Respiratory Distress Syndrome by Nasal Transcriptomic Profiling
+Cell type-specific immune dysregulation in severely ill COVID-19 patients
+RNA-GPS Predicts SARS-CoV-2 RNA Localization to Host Mitochondria and Nucleolus
+Disparate temperature-dependent virus - host dynamics for SARS-CoV-2 and SARS-CoV in the human respiratory epithelium
+Compositional Variability and Mutation Spectra of Monophyletic SARS-CoV-2 Clades
+Disease severity-specific neutrophil signatures in blood transcriptomes stratify COVID-19 patients
+Specific ACE2 Expression in Cholangiocytes May Cause Liver Damage After 2019-nCoV Infection
+Nrf2 Activator PB125 as a Potential TherapeuticAgent Against COVID-19
+Single-cell RNA Analysis on ACE2 Expression Provides Insight into SARS-CoV-2 Blood Entry and Heart Injury
+Genes with 5' terminal oligopyrimidine tracts preferentially escape global suppression of translation by the SARS-CoV-2 NSP1 protein
+Single-cell RNA Expression of SARS-CoV-2 Cell Entry Factors in Human Endometrium during Preconception
+Multiple expression assessments of ACE2 and TMPRSS2 SARS-CoV-2 entry molecules in the urinary tract and their associations with clinical manifestations of COVID-19
+Epigenetic regulator miRNA pattern differences among SARS-CoV, SARS-CoV-2 and SARS-CoV-2 world-wide isolates delineated the mystery behind the epic pathogenicity and distinct clinical characteristics of pandemic COVID-19
+Lung biopsy cells transcriptional landscape from COVID-19 patient stratified lung injury in SARS-CoV-2 infection through impaired pulmonary surfactant metabolism
+ACE2-expressing endothelial cells in aging mouse brain
+Natural killer cell activation related to clinical outcome of COVID-19
+Various RNA-binding proteins and their conditional networks explain miRNA biogenesis and help to reveal the potential SARS-CoV-2 host miRNAome system
+In vivo antiviral host response to SARS-CoV-2 by viral load, sex, and age
+ScRNA-seq discover cell cluster change under OAB: ACE2 expression reveal possible alternation of 2019-nCoV infectious pathway
+Disruption of the CCL5/RANTES-CCR5 Pathway Restores Immune Homeostasis and Reduces Plasma Viral Load in Critical COVID-19
+Bioinformatic characterization of angiotensin-converting enzyme 2, the entry receptor for SARS-CoV-2
+log(x+1)* and log(1+x)
+Does the human placenta express the canonical cell entry mediators for SARS-CoV-2?
+Single-cell RNA expression profiling of ACE2, the putative receptor of Wuhan 2019-nCov
+Host, Viral, and Environmental Transcriptome Profiles of the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)
+Integrated analyses of single-cell atlases reveal age, gender, and smoking status associations with cell type-specific expression of mediators of SARS-CoV-2 viral entry and highlights inflammatory programs in putative target cells
+Generation of human bronchial organoids for SARS-CoV-2 research
+T-cell hyperactivation and paralysis in severe COVID-19 infection revealed by single-cell analysis
+SARS-CoV-2 selectively mimics a cleavable peptide of human ENaC in a strategic hijack of host proteolytic machinery
+SARS-CoV-2 receptor and entry genes are expressed by sustentacular cells in the human olfactory neuroepithelium
+SARS-CoV-2 genomics beyond the consensus sequence: evidence for circulating mixed viral populations
+Genetic Profiles in Pharmacogenes Indicate Personalized Drug Therapy for COVID-19
+Distribution of ACE2, CD147, cyclophilins, CD26 and other SARS-CoV-2 associated molecules in human tissues and immune cells in health and disease
+Perversely expressed long noncoding RNAs can alter host response and viral proliferation in SARS-CoV-2 infection
+Discovery of potential imaging and therapeutic targets for severe inflammation in COVID-19 patients
+Single cell RNA sequencing of blood antigen-presenting cells in severe Covid-19 reveals multi-process defects in antiviral immunity
+The scRNA-seq expression profiling of the receptor ACE2 and the cellular protease TMPRSS2 reveals human organs susceptible to COVID-19 infection
+Cell-Type-Specific Expression of Renin-Angiotensin-System Components in the Human Body and Its Relevance to SARS-CoV-2 Infection
+RAAS blockade, kidney disease, and expression of ACE2, the entry receptor for SARS-CoV-2, in kidney epithelial and endothelial cells
+Single-cell analysis reveals the function of lung progenitor cells in COVID-19 patients
+Modulating the transcriptional landscape of SARS-CoV-2 as an effective method for developing antiviral compounds
+Alveolitis in severe SARS-CoV-2 pneumonia is driven by self-sustaining circuits between infected alveolar macrophages and T cells
+Intra-host site-specific polymorphisms of SARS-CoV-2 is consistent across multiple samples and methodologies
+Integrated analysis of bulk multi omic and single-cell sequencing data confirms the molecular origin of hemodynamic changes in Covid-19 infection explaining coagulopathy and higher geriatric mortality
+Single-cell Transcriptome Analysis Indicates New Potential Regulation Mechanism of ACE2 and NPs signaling among heart failure patients infected with SARS-CoV-2
+Age-related expression of SARS-CoV-2 priming protease TMPRSS2 in the developing lung
+Lung epithelial stem cells express SARS-CoV-2 entry factors: implications for COVID-19
+Single-dose intranasal vaccination elicits systemic and mucosal immunity against SARS-CoV-2
+Single-cell Analysis of ACE2 Expression in Human Kidneys and Bladders Reveals a Potential Route of 2019-nCoV Infection
+The landscape of lung bronchoalveolar immune cells in COVID-19 revealed by single-cell RNA sequencing
+Characterization of intra-host SARS-CoV-2 variants improves phylogenomic reconstruction and may reveal functionally convergent mutations
+Prediction of non-canonical routes for SARS-CoV-2 infection in human placenta cells
+Single-cell analysis of human lung epithelia reveals concomitant expression of the SARS-CoV-2 receptor ACE2 with multiple virus receptors and scavengers in alveolar type II cells
+Differential expression of COVID-19-related genes in European Americans and African Americans
+AGE IS ASSOCIATED WITH INCREASED EXPRESSION OF PATTERN RECOGNITION RECEPTOR GENES AND ACE2, THE RECEPTOR FOR SARS-COV-2: IMPLICATIONS FOR THE EPIDEMIOLOGY OF COVID-19 DISEASE
+Highly ACE2 Expression in Pancreas May Cause Pancreas Damage After SARS-CoV-2 Infection
+Myocyte Specific Upregulation of ACE2 in Cardiovascular Disease: Implications for SARS-CoV-2 mediated myocarditis
+ApharSeq: An Extraction-free Early-Pooling Protocol for Massively Multiplexed SARS-CoV-2 Detection
+A single-cell RNA expression map of human coronavirus entry factors
+Screening and testing for a suitable untransfected cell line for SARS-CoV-2 studies
+SARS-CoV-2 entry related genes are comparably expressed in children's lung as adults
+Identification of Drugs Blocking SARS-CoV-2 Infection using Human Pluripotent Stem Cell-derived Colonic Organoids
+Knowledge synthesis from 100 million biomedical documents augments the deep expression profiling of coronavirus receptors
+The Nucleocapsid Protein of SARS-CoV-2 Abolished Pluripotency in Human Induced Pluripotent Stem Cells
+Deciphering the state of immune silence in fatal COVID-19 patients
+Human Embryonic Stem Cell-derived Lung Organoids: a Model for SARS-CoV-2 Infection and Drug Test
+Comorbidities associated with regional variations in COVID-19 mortality revealed by population-level analysis
+scRNA-seq reveals ACE2 and TMPRSS2 expression in TROP2+ Liver Progenitor Cells: Implications in COVID-19 associated Liver Dysfunction
+Early temporal dynamics of cellular responses to SARS-CoV-2
+Single Nucleus Multiomic Profiling Reveals Age-Dynamic Regulation of Host Genes Associated with SARS-CoV-2 Infection
+SARS-CoV-2 infects brain choroid plexus and disrupts the blood-CSF-barrier
+Relative Abundance of SARS-CoV-2 Entry Genes in the Enterocytes of the Lower Gastrointestinal Tract
+Suppressive myeloid cells are a hallmark of severe COVID-19
+Transcriptomic dysregulations associated with SARS-CoV-2 infection in human nasopharyngeal and peripheral blood mononuclear cells
+Progenitor identification and SARS-CoV-2 infection in long-term human distal lung organoid cultures
+Molecular mechanisms of Cardiac Injury associated with myocardial SARS-CoV-2 infection
+COVID-19 and Rheumatoid Arthritis share myeloid pathogenic and resolving pathways
+Plasma IL-6 Levels following Corticosteroid Therapy as an Indicator of ICU Length of Stay in Critically ill COVID-19 Patients
+Meta-analysis of transcriptomes of SARS-Cov2 infected human lung epithelial cells identifies transmembrane serine proteases co-expressed with ACE2 and biological processes related to viral entry, immunity, inflammation and cellular stress.
+Genes Encoding ACE2, TMPRSS2 and Related Proteins Mediating SARS-CoV-2 Viral Entry are Upregulated with Age in Human Cardiomyocytes
+PACIFIC: A lightweight deep-learning classifier of SARS-CoV-2 and co-infecting RNA viruses
+A single-cell atlas of the peripheral immune response to severe COVID-19
+Single-cell RNA expression profiling of ACE2, the putative receptor of Wuhan 2019-nCoV, in the nasal tissue
+Large-scale Multi-omic Analysis of COVID-19 Severity
+VIRTUS: a pipeline for comprehensive virus analysis from conventional RNA-seq data
+The differential immune responses to COVID-19 in peripheral and lung revealed by single-cell RNA sequencing
+Human-to-human transmission of 2019-novel coronavirus (2019-nCoV)
+Clinical Manifestations of Children with COVID-19: a Systematic Review
+Susceptibility of swine cells and domestic pigs to SARS-CoV-2
+Validation of Saliva and Self-Administered Nasal Swabs for COVID-19 Testing
+Airway expression of SARS-CoV-2 receptor, ACE2, and proteases, TMPRSS2 and furin, in severe asthma
+Development and validation of the COVID-19 severity index (CSI): a prognostic tool for early respiratory decompensation
+A comparison of health care worker-collected foam and polyester nasal swabs in convalescent COVID-19 patients
+The role of comorbidities and clinical predictors of severe disease in COVID-19: a systematic review and meta-analysis
+Estimating false-negative detection rate of SARS-CoV-2 by RT-PCR
+Functionalized TiO2 nanotube-based Electrochemical Biosensor for Rapid Detection of SARS-CoV-2
+Reliability of self-sampling for accurate assessment of respiratory virus viral and immunologic kinetics
+Female reproductive tract has low concentration of SARS-CoV2 receptors
+Mathematical modeling explains differential SARS CoV-2 kinetics in lung and nasal passages in remdesivir treated rhesus macaques
+More than just smell - COVID-19 is associated with severe impairment of smell, taste, and chemesthesis
+Patient-collected tongue, nasal, and mid-turbinate swabs for SARS-CoV-2 yield equivalent sensitivity to health care worker collected nasopharyngeal swabs
+ENVIRONMENTAL SAFETY EVALUATION OF THE PROTECTION AND ISOLATION SYSTEM FOR PATIENTS WITH COVID-19.
+Neuropilin-1 facilitates SARS-CoV-2 cell entry and provides a possible pathway into the central nervous system
+Objective Olfactory Evaluation of Self-reported Olfactory Dysfunction in a Case Series of 86 COVID-19 Patients
+Sensitivity of Nasopharyngeal, Nasal and Throat Swab for the Detection of SARS-CoV-2
+A single intranasal dose of chimpanzee adenovirus-vectored vaccine confers sterilizing immunity against SARS-CoV-2 infection
+Effective Inhibition of SARS-CoV-2 Entry by Heparin and Enoxaparin Derivatives
+Combined oropharyngeal/nasal swab is equivalent to nasopharyngeal sampling for SARS-CoV-2 diagnostic PCR
+Symptom Course in COVID-19 Outpatients
+Host transcriptional responses and SARS-CoV-2 isolates from the nasopharyngeal samples of Bangladeshi COVID-19 patients
+Nasal-Swab Testing Misses Patients with Low SARS-CoV-2 Viral Loads
+Analysis of hospitalized COVID-19 patients in the Mount Sinai Health System using electronic medical records (EMR) reveals important prognostic factors for improved clinical outcomes
+Rescue of SARS-CoV-2 from a single bacterial artificial chromosome
+Evaluation of K18-hACE2 mice as a model of SARS-CoV-2 infection
+Saliva offers a sensitive, specific and non-invasive alternative to upper respiratory swabs for SARS-CoV-2 diagnosis.
+Rapid point of care nucleic acid testing for SARS-CoV-2 in hospitalised patients: a clinical trial and implementation study
+Pathogenesis, transmission and response to re-exposure of SARS-CoV-2 in domestic cats
+Real-world Experience with Favipiravir for Treatment of COVID-19 in Thailand: Results from a Multi-center Observational Study
+Infection and mortality of healthcare workers worldwide from COVID-19: a scoping review
+Comparative study of four SARS-CoV-2 Nucleic Acid Amplification Test (NAAT) platforms demonstrates that ID NOW performance is impaired substantially by patient and specimen type.
+Transcriptional profiling of immune and inflammatory responses in the context of SARS-CoV-2 fungal superinfection in a human airway epithelial model
+Self-collection: an appropriate alternative during the SARS-CoV-2 pandemic
+Laboratory diagnosis and monitoring the viral shedding of 2019-nCoV infections
+Analysis of epidemiological characteristics of coronavirus 2019 infection and preventive measures in Shenzhen China: a heavy population city
+Epidemiological and clinical features of 2019-nCoV acute respiratory disease cases in Chongqing municipality, China: a retrospective, descriptive, multiple-center study
+Electrostatic Characteristics of SARS-CoV-2 Spike and Human ACE2 Protein Variations Predict Mutable Binding Efficacy
+Rapid direct nucleic acid amplification test without RNA extraction for SARS-CoV-2 using a portable PCR thermocycler
+Variation in Aerosol Production Across Oxygen Delivery Devices in Spontaneously Breathing Human Subjects
+Pleiotropic effect of Lactoferrin in the prevention and treatment of COVID-19 infection: in vivo, in silico and in vitro preliminary evidences
+K18-hACE2 mice develop respiratory disease resembling severe COVID-19
+Noninvasive respiratory support in acute hypoxemicrespiratory failure associated with COVID-19 and other viralinfections
+SARS-CoV-2 infection, disease and transmission in domestic cats
+Characterization and treatment of SARS-CoV-2 in nasal and bronchial human airway epithelia
+Comparison of the NeuMoDX, Diasorin Simplexa, Cepheid and Roche CDC SARS-CoV 2 EUA assays using nasopharyngeal/nasal swabs in universal transport media (UTM) and sputum and tracheal aspirates
+Expression of ACE2 and TMPRSS2 proteins in the upper and lower aerodigestive tracts of rats
+Traffic-derived particulate matter and angiotensin-converting enzyme 2 expression in human airway epithelial cells
+Assessment of dispersion of airborne particles of oral/nasal fluid by high flow nasal cannula therapy
+Feasibility of non-invasive nitric oxide inhalation in acute hypoxic respiratory failure: potential role during the COVID-19 pandemic
+SARS-CoV-2 in-vitro neutralization assay reveals inhibition of virus entry by iota-carrageenan
+Effect of hydroxychloroquine on SARS-CoV-2 viral load in patients with COVID-19
+Rapid Isothermal Amplification and Portable Detection System for SARS-CoV-2
+Sinus and Anterior Skull Base Surgery during the COVID-19 pandemic: Systematic review, Synthesis and YO-IFOS position.
+Comparative Pathogenesis Of COVID-19, MERS And SARS In A Non-Human Primate Model
+Intranasal Immunization with a Lentiviral Vector Coding for SARS-CoV-2 Spike Protein Confers Vigorous Protection in Pre-Clinical Animal Models
+NVX-CoV2373 vaccine protects cynomolgus macaque upper and lower airways against SARS-CoV-2 challenge
+Colorimetric Test for Fast Detection of SARS-CoV-2 in Nasal and Throat Swabs
+Abnormal Upregulation of Cardiovascular Disease Biomarker PLA2G7 Induced by Proinflammatory Macrophages in COVID-19 patients
+Screening of SARS-CoV-2 among homeless people, asylum seekers and other people living in precarious conditions in Marseille, France, March April 2020.
+Spike mutation D614G alters SARS-CoV-2 fitness and neutralization susceptibility
+Detection of SARS-CoV-2 in Exhaled Breath from COVID-19 Patients Ready for Hospital Discharge
+DNA Methylation Architecture of the ACE2 gene in Nasal Cells
+Evaluation of symptomatic patient saliva as a sample type for the Abbott ID NOW COVID-19 assay
+Placental SARS-CoV-2 in a patient with mild COVID-19 disease
+Longitudinal symptom dynamics of COVID-19 infection in primary care
+Sensitivity of nasopharyngeal, oropharyngeal and nasal washes specimens for SARS-CoV-2 detection in the setting of sampling device shortage
+ROX Index Predicts Intubation in Patients with COVID-19 Pneumonia and Moderate to Severe Hypoxemic Respiratory Failure Receiving High Flow Nasal Therapy.
+Predictive value of sudden olfactory loss in the diagnosis of COVID-19
+Direct observation of repeated infections with endemic coronaviruses
+The Anti-histamine Azelastine, Identified by Computational Drug Repurposing, Inhibits SARS-CoV-2 Infection in Reconstituted Human Nasal Tissue In Vitro
+Monitoring and predicting viral dynamics in SARS-CoV-2-infected Patients
+Serum Mycoplasma Pneumoniae IgG in COVID-19: A Protective Factor
+An experimental trial of recombinant human interferon alpha nasal drops to prevent coronavirus disease 2019 in medical staff in an epidemic area
+Variation in False Negative Rate of RT-PCR Based SARS-CoV-2 Tests by Time Since Exposure
+Systemic and mucosal antibody secretion specific to SARS-CoV-2 during mild versus severe COVID-19
+Confronting the COVID-19 Pandemic with Systems Biology
+SARS-CoV-2 is transmitted via contact and via the air between ferrets.
+Self-Collected Oral Fluid and Nasal Swabs Demonstrate Comparable Sensitivity to Clinician Collected Nasopharyngeal Swabs for Covid-19 Detection
+Intradermal-delivered DNA vaccine provides anamnestic protection in a rhesus macaque SARS-CoV-2 challenge model
+On the molecular mechanism of SARS-CoV-2 retention in the upper respiratory tract
+Longitudinal COVID-19 Surveillance and Characterization in the Workplace with Public Health and Diagnostic Endpoints
+Clinical and Radiological Evaluations of COVID-19 Patients with Anosmia: Preliminary Report.
+Hydroxychloroquine alone or in combination with azithromycin to prevent major clinical events in hospitalised patients with coronavirus infection (COVID-19): rationale and design of a randomised, controlled clinical trial
+Background mechanisms of olfactory dysfunction in COVID-19: expression of ACE2, TMPRSS2, and Furin in the nose and olfactory bulb in human and mice
+Massive transient damage of the olfactory epithelium associated with infection of sustentacular cells by SARS-CoV-2 in golden Syrian hamsters
+Self-reported taste and smell disorders in patients with COVID-19: distinct features in China
+Obesity and COVID-19: The role of visceral adipose tissue
+Tissue-resident memory CD8 T-cell responses elicited by a single injection of a multi-target COVID-19 vaccine
+In-Vivo Toxicity Studies and In-Vitro Inactivation of SARS-CoV-2 by Povidone-iodine In-situ Gel Forming Formulations
+Clinical evaluation of BD Veritor SARS-CoV-2 point-of-care test performance compared to PCR-based testing and versus the Sofia SARS Antigen point-of-care test.
+Modelling SARS-CoV-2 Dynamics: Implications for Therapy
+Home collection of nasal swabs for detection of influenza in the Household Influenza Vaccine Evaluation Study
+Critical Care for Patients with Severe Covid-2019 in Sichuan Province, China: Provincial Cohort Study
+Is there an airborne component to the transmission of COVID-19? : a quantitative analysis study
+Robust ACE2 protein expression localizes to the motile cilia of the respiratory tract epithelia and is not increased by ACE inhibitors or angiotensin receptor blockers
+Performance of the rapid Nucleic Acid Amplification by Abbott ID NOW COVID-19 in nasopharyngeal swabs transported in viral media and dry nasal swabs, in a New York City academic institution
+Prolonged viral RNA shedding after COVID-19 symptom resolution in older convalescent plasma donors
+Iota carrageenan and xylitol inhibit SARS-CoV-2 in Vero cell culture
+Susceptibility of raccoon dogs for experimental SARS-CoV-2 infection
+Seroprevalence of SARS-CoV-2 antibodies in children - A prospective multicentre cohort study.
+Determinants of SARS-CoV-2 receptor gene expression in upper and lower airways
+Bivalent binding of a fully human IgG to the SARS-CoV-2 spike proteins reveals mechanisms of potent neutralization
+Cold-adapted live attenuated SARS-CoV-2 vaccine completely protects human ACE2 transgenic mice from SARS-CoV-2 infection
+Antiviral treatment of SARS-CoV-2-infected hamsters reveals a weak effect of favipiravir and a complete lack of effect for hydroxychloroquine
+Next generation sequencing of SARS-CoV-2 from patient specimens of Nevada reveals occurrence of specific nucleotide variants at high frequency
+Confirmed central olfactory system lesions on brain MRI in COVID-19 patients with anosmia: a case-series
+Human angiotensin-converting enzyme 2 transgenic mice infected with SARS-CoV-2 develop severe and fatal respiratory disease
+Compassionate Use of Opaganib For Patients with Severe COVID-19
+Role of intermediate care unit admission and non-invasive respiratory support during the COVID-19 pandemic: a retrospective cohort study
+The Potential Use of Unprocessed Sample for RT-qPCR Detection of COVID-19 without an RNA Extraction Step
+SARS-CoV-2 infection in the lungs of human ACE2 transgenic mice causes severe inflammation, immune cell infiltration, and compromised respiratory function
+Attenuated influenza virions expressing the SARS- CoV-2 receptor-binding domain induce neutralizing antibodies in mice
+High prevalence of SARS-CoV-2 antibodies in care homes affected by COVID-19; a prospective cohort study in England
+Inhibition of SARS-CoV-2 infection (previously 2019-nCoV) by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion
+Clinical features of coronavirus disease 2019 (COVID-19) in a cohort of patients with disability due to spinal cord injury
+Psychophysical Olfactory Findings of Mild-to-moderate COVID-19 Patients: Preliminary Report.
+Susceptibility of domestic swine to experimental infection with SARS-CoV-2
+A Next Generation Bivalent Human Ad5 COVID-19 Vaccine Delivering Both Spike and Nucleocapsid Antigens Elicits Th1 Dominant CD4+, CD8+ T-cell and Neutralizing Antibody Responses
+Comparison of two commercial molecular tests and a laboratory-developed modification of the CDC 2019-nCOV RT-PCR assay for the qualitative detection of SARS-CoV-2 from upper respiratory tract specimens
+Loss of pH switch unique to SARS-CoV2 supports unfamiliar virus pathology
+Combined point of care nucleic acid and antibody testing for SARS-CoV-2: a prospective cohort study in suspected moderate to severe COVID-19 disease.
+Evaluation of specimen types and saliva stabilization solutions for SARS-CoV-2 testing
+Hydroxychloroquine and Azithromycin as a treatment of COVID-19: preliminary results of an open-label non-randomized clinical trial
+Evaluation of nasopharyngeal swab collection techniques for nucleic acid recovery and participant experience: recommendations for COVID-19 diagnostics
+Experimental infection of cattle with SARS-CoV-2
+Astodrimer sodium, dendrimer antiviral, inhibits replication of SARS-CoV-2 in vitro
+SARS-CoV-2 Infections Among Children in the Biospecimens from Respiratory Virus-Exposed Kids (BRAVE Kids) Study
+Characterization of Microbial Co-infections in the Respiratory Tract of hospitalized COVID-19 patients
+Feasibility of SARS-CoV-2 virus detection from consumer-grade cotton swabs
+Analysis of Covid-19 and non-Covid-19 viruses including influenza viruses to see the influence of intensive preventive measures among Japanese
+North American deer mice are susceptible to SARS-CoV-2
+Comparison of SARS-CoV-2 infections among 3 species of non-human primates
+Evidence of SARS-CoV2 entry protein ACE2 in the human nose and olfactory bulb
+The S1 protein of SARS-CoV-2 crosses the blood-brain barrier: Kinetics, distribution, mechanisms, and influence of ApoE genotype, sex, and inflammation
+Antiviral activity of lambda-carrageenan against influenza viruses in mice and severe acute respiratory syndrome coronavirus 2 in vitro
+In vitro study of BromAc on SARS-CoV-2 spike and envelope proteins shows synergy and disintegration at modest concentrations
+Features and Functions of Systemic and Mucosal Humoral Immunity Among SARS-CoV-2 Convalescent Individuals
+Swab-Seq: A high-throughput platform for massively scaled up SARS-CoV-2 testing
+The Outcome Impact of Early vs Late HFNC Oxygen Therapy in Elderly Patients with COVID-19 and ARDS
+Using HoloLens™ to reduce staff exposure to aerosol generating procedures during a global pandemic
+Use of High Flow Nasal Therapy to Treat Moderate to Severe Hypoxemic Respiratory Failure in COVID-19
+Expression of ACE2, TMPRSS2, and CTSL in human airway epithelial cells under physiological and pathological conditions: Implications for SARS-CoV2 infection
+On COVID-19-safety ranking of seats in intercontinental commercial aircrafts: A preliminary multiphysics computational perspective
+SARS-CoV-2 detection in setting of viral swab scarcity: are MRSA swabs and viral swabs equivalent?
+Diagnostic Indexes of a Rapid IgG/IgM Combined Antibody Test for SARS-CoV-2
+SARS-CoV-2 Infection And Longitudinal Fecal Screening In Malayan Tigers (Panthera tigris jacksoni), Amur Tigers (Panthera tigris altaica), And African Lions (Panthera leo krugeri) At The Bronx Zoo, New York, USA
+Detecting SARS-CoV-2 at point of care: Preliminary data comparing Loop-mediated isothermal amplification (LAMP) to PCR
+Variations in Personal Protective Equipment Preparedness in Intensive Care Units during the COVID-19 Pandemic: A Survey of Asia-Pacific Countries
+Rapid and extraction-free detection of SARS-CoV-2 from saliva with colorimetric LAMP
+Early Improvement of Acute Respiratory Distress Syndrome in Patients with COVID-19: Insights from the Data of ICU Patients in Chongqing, China
+In-house assembled protective devices in laboratory safety against SARS-nCoV-2 in clinical biochemistry laboratory of a COVID dedicated hospital
+Heterogeneous expression of the SARS-Coronavirus-2 receptor ACE2 in the human respiratory tract
+The effect of a national lockdown in response to COVID-19 pandemic on the prevalence of clinical symptoms in the population
+Self-Collected Anterior Nasal and Saliva Specimens versus Healthcare Worker-Collected Nasopharyngeal Swabs for the Molecular Detection of SARS-CoV-2
+COVID-19 Case Series at UnityPoint Health St. Lukes Hospital in Cedar Rapids, IA
+Elevated ACE2 expression in the olfactory neuroepithelium: implications for anosmia and upper respiratory SARS-CoV-2 entry and replication
+In Vitro Efficacy of Povidone-Iodine Nasal And Oral Antiseptic Preparations Against Severe Acute Respiratory Syndrome-Coronavirus 2 (SARS-CoV-2)
+A pilot study to see any Change of the Nasal and Oropharyngeal Microbiota with Prolonged Use of Medical Masks during the COVID-19 Outbreak
+SARS-CoV-2 Isolation and Propagation from Turkish COVID-19 patients
+Laboratory validation of an RNA/DNA hybrid tagmentation based mNGS workflow on SARS-CoV-2 and other respiratory RNA viruses detection
+At-home self-collection of saliva, oropharyngeal swabs and dried blood spots for SARS-CoV-2 diagnosis and serology: post-collection acceptability of specimen collection process and patient confidence in specimens
+Chest X-Ray Has Poor Diagnostic Accuracy and Prognostic Significance in COVID-19: A Propensity Matched Database Study
+Co-occurrence of SARS-CoV-2 and Respiratory Pathogens in the Frail Elderly
+COVID-19 experience: first Italian survey on healthcare staff members from a Mother-Child Research hospital using combined molecular and rapid immunoassays test
+Pooled testing with replication: a mass testing strategy for the COVID-19 pandemics
+Origin of imported SARS-CoV-2 strains in The Gambia identified from Whole Genome Sequences.
+Viral cultures for COVID-19 infectivity assessment. Systematic review
+Search for asymptomatic carriers of SARS-CoV-2 in healthcare workers during the pandemic: a Spanish experience
+A comparative study of isothermal nucleic acid amplification methods for SARS-CoV-2 detection at point of care
+SARS-CoV-2 genomic and quasispecies analyses in cancer patients reveal relaxed intrahost virus evolution
+Throat wash as a source of SARS-CoV-2 RNA to monitor community spread of COVID-19.
+A rapid and sensitive method to detect SARS-CoV-2 virus using targeted-mass spectrometry
+Delayed clearance of SARS-CoV2 in male compared to female patients: High ACE2 expression in testes suggests possible existence of gender-specific viral reservoirs
+SARS-CoV-2 infection in Health Care Workers in a large public hospital in Madrid, Spain, during March 2020
+Isolation and characterization of SARS-CoV-2 from the first US COVID-19 patient
+SARS-CoV-2 Detection in Different Respiratory Sites: A Systematic Review and Meta-Analysis
+SARS-CoV-2 infection in 86 healthcare workers in two Dutch hospitals in March 2020
+Asymptomatic cases and limited transmission of SARS-CoV-2 in residents and healthcare workers in three Dutch nursing homes
+PAN-INDIA 1000 SARS-CoV-2 RNA Genome Sequencing Reveals Important Insights into the Outbreak
+Paired nasopharyngeal and deep lung testing for SARS-CoV2 reveals a viral gradient in critically ill patients: a multi-centre study
+Assessment of the use and quick preparation of saliva for rapid microbiological diagnosis of COVID-19.
+SARS-CoV-2 RT-PCR profile in 298 Indian COVID-19 patients : a retrospective observational study
+THE USE OF DENATURING SOLUTION AS COLLECTION AND TRANSPORT MEDIA TO IMPROVE SARS-COV-2 RNA DETECTION AND REDUCE INFECTION OF LABORATORY PERSONNEL
+COVID-19 in Multiple Sclerosis Patients and Risk Factors for Severe Infection
+Duration of Viral Clearance in IDF Soldiers with Mild COVID-19
+Phenol-chloroform-based RNA purification for detection of SARS-CoV-2 by RT-qPCR: comparison with automated systems
+Prevalence of SARS-CoV-2 infection in previously undiagnosed health care workers at the onset of the U.S. COVID-19 epidemic
+Comparison of 12 molecular detection assays for SARS-CoV-2
+Randomized Re-Opening of Training Facilities during the COVID-19 pandemic
+COVID-19 Mortality in Cancer Patients: A Report from a Tertiary Cancer Centre in India
+Profiling the positive detection rate of SARS-CoV-2 using polymerase chain reaction in different types of clinical specimens: a systematic review and meta-analysis
+A COVID-19 outbreak in a rheumatology department upon the early days of the pandemic
+COVID-19 PCR Test Performance For Samples Stored At Ambient Temperature
+ALTERED MOLECULAR PATHWAYS OBSERVED IN NASO-OROPHARYNGEAL SAMPLES OF SARS-CoV-2 PATIENTS
+Head-to-head comparison of four antigen-based rapid detection tests for the diagnosis of SARS-CoV-2 in respiratory samples
+Detection of SARS-CoV-2 in pets living with COVID-19 owners diagnosed during the COVID-19 lockdown in Spain: A case of an asymptomatic cat with SARS-CoV-2 in Europe
+Prevalence of SARS-CoV-2 among high-risk populations in Lom&eacute (Togo) in 2020
+SARS-CoV-2 phylogeny during the early outbreak in the Basel area, Switzerland: import and spread dominated by a single B.1 lineage variant (C15324T)
+2019 Novel Coronavirus can be detected in urine, blood, anal swabs and oropharyngeal swabs samples
+Rapid Detection of Novel Coronavirus (COVID-19) by Reverse Transcription-Loop-Mediated Isothermal Amplification
+Epidemiology of SARS-CoV-2 Emergence Amidst Community-Acquired Respiratory Viruses
+Rapid Molecular Detection of SARS-CoV-2 (COVID-19) Virus RNA Using Colorimetric LAMP
+Clinical features and sexual transmission potential of SARS-CoV-2 infected female patients: a descriptive study in Wuhan, China
+Clinical Data on Hospital Environmental Hygiene Monitoring and Medical Staffs Protection during the Coronavirus Disease 2019 Outbreak
+Clinical presentation and virological assessment of hospitalized cases of coronavirus disease 2019 in a travel-associated transmission cluster
+A preliminary study on serological assay for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in 238 admitted hospital patients
+Investigation of pooling strategies using clinical COVID-19 samples for more efficient diagnostic testing
+A reverse-transcription loop-mediated isothermal amplification (RT-LAMP) assay for the rapid detection of SARS-CoV-2 within nasopharyngeal and oropharyngeal swabs at Hampshire Hospitals NHS Foundation Trust
+Outcomes and Cardiovascular Comorbidities in a Predominantly African-American Population with COVID-19
+Comparison of Four Molecular In Vitro Diagnostic Assays for the Detection of SARS-CoV-2 in Nasopharyngeal Specimens
+Saliva Sample as a Non-Invasive Specimen for the Diagnosis of Coronavirus Disease-2019 (COVID-19): a Cross-Sectional Study
+Saliva is more sensitive for SARS-CoV-2 detection in COVID-19 patients than nasopharyngeal swabs
+Comparison of the Accula SARS-CoV-2 Test with a Laboratory-Developed Assay for Detection of SARS-CoV-2 RNA in Clinical Nasopharyngeal Specimens
+Validation of an extraction-free RT-PCR protocol for detection of SARS-CoV2 RNA
+Large-scale, in-house production of viral transport media to support SARS-CoV-2 PCR testing in a multi-hospital healthcare network during the COVID-19 pandemic
+Extensive testing may reduce COVID-19 mortality: a lesson from northern Italy
+A Multicenter, randomized, open-label, controlled trial to evaluate the efficacy and tolerability of hydroxychloroquine and a retrospective study in adult patients with mild to moderate Coronavirus disease 2019 (COVID-19)
+Performance characteristics of a high throughput automated transcription mediated amplification test for SARS-CoV-2 detection
+IN-UTERO MOTHER-TO-CHILD SARS-CoV-2 TRANSMISSION: viral detection and fetal immune response
+A simple RNA preparation method for SARS-CoV-2 detection by RT-qPCR
+A Combined approach of MALDI-TOF Mass Spectrometry and multivariate analysis as a potential tool for the detection of SARS-CoV-2 virus in nasopharyngeal swabs.
+Willingness to seek laboratory testing for SARS-CoV-2 with home, drive-through, and clinic-based specimen collection locations
+Recurrence of SARS-CoV-2 PCR positivity in COVID-19 patients: a single center experience and potential implications
+Seroprevalence of the SARS-CoV-2 infection in health workers of the Sanitary Region VIII, at province of Buenos Aires
+Rapid Open Development and Clinical Validation of Multiple New 3D-Printed Nasopharyngeal Swabs in Response to the COVID-19 Pandemic
+Massive and rapid COVID-19 testing is feasible by extraction-free SARS-CoV-2 RT-qPCR
+Comparative effects of viral transport medium heat inactivation upon downstream SARS-CoV-2 detection in patient samples
+A prospective study to identify rates of SARS-CoV-2 virus in the peritoneum and lower genital tract of patients having surgery
+Rapid detection of SARS-CoV-2 by pulse-controlled amplification (PCA)
+The COVID-19 Early Detection in Doctors and Healthcare Workers (CEDiD) Study: study protocol for a prospective observational trial
+A diagnostic decision-making protocol combines a new-generation of serological assay and PCR to fully resolve ambiguity in COVID-19 diagnosis
+Comparison of SARS-CoV2 N gene real-time RT-PCR targets and commercially available mastermixes
+Occurrence and Timing of Subsequent SARS-CoV-2 RT-PCR Positivity Among Initially Negative Patients
+Early postmortem brain MRI findings in COVID-19 non-survivors
+Suboptimal biological sampling as a probable cause of false-negative COVID-19 diagnostic test results
+Point-of-care testing for COVID-19 using SHERLOCK diagnostics
+Highly accurate and sensitive diagnostic detection of SARS-CoV-2 by digital PCR
+CoViD--19: An Automatic, Semiparametric Estimation Method for the Population Infected in Italy
+Temporal dynamics in viral shedding and transmissibility of COVID-19
+Acute myelitis after SARS-CoV-2 infection: a case report.
+Contact tracing and isolation of asymptomatic spreaders to successfully control the COVID-19 epidemic among healthcare workers in Milan (Italy)
+Infection fatality rate of SARS-CoV-2 infection in a German community with a super-spreading event
+Detection of SARS-CoV-2 RNA on public surfaces in a densely populated urban area of Brazil
+Point of care lung ultrasound is useful when screening for CoVid-19 in Emergency Department patients.
+The COVID-19 Pandemic Impact on Primary Health Care services: An Experience from Qatar
+Sequence analysis of Indian SARS-CoV-2 isolates shows a stronger interaction of mutated receptor binding domain with ACE2 receptor
+Assessment of spread of SARS-CoV-2 by RT-PCR and concomitant serology in children in a region heavily affected by COVID-19 pandemic
+Enzyme immunoassay for SARS-CoV-2 antibodies in dried blood spot samples: A minimally-invasive approach to facilitate community- and population-based screening
+Temporal dynamics of human respiratory and gut microbiomes during the course of COVID-19 in adults
+Diagnostic value of skin manifestation of SARS-CoV-2 infection
+SARS-CoV-2 RNA extraction using magnetic beads for rapid large-scale testing by RT-qPCR and RT-LAMP
+Direct diagnostic testing of SARS-CoV-2 without the need for prior RNA extraction.
+Exhaled breath is a significant source of SARS-CoV-2 emission
+A simple, safe and sensitive method for SARS-CoV-2 inactivation and RNA extraction for RT-qPCR
+Validation and Comparison of a Modified CDC Assay with two Commercially Available Assays for the Detection of SARS-CoV-2 in Respiratory Specimen
+Design of a Novel Multiplex Real Time RT-PCR Assay for SARS-CoV-2 Detection
+Resource optimization in COVID-19 diagnosis
+SARS-CoV-2 seroconversion in health care workers
+Assessment of service availability and Infection prevention measures in hospitals of Nepal during the transition phase of COVID-19 case surge
+SARS-CoV2 infection in farmed mink, Netherlands, April 2020
+Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection During Pregnancy In China: A Retrospective Cohort Study
+Saliva as a Candidate for COVID-19 Diagnostic Testing: A Meta-Analysis
+Ophthalmologic evidence against the interpersonal transmission of 2019 novel coronavirus through conjunctiva
+Persistent viral shedding of SARS-CoV-2 in faeces - a rapid review
+Field-deployable, rapid diagnostic testing of saliva samples for SARS-CoV-2.
+Snapshot PCR Surveillance for SARS-CoV-2 in Hospital Staff in England
+Association of Cardiovascular Manifestations with In-hospital Outcomes in Patients with COVID-19: A Hospital Staff Data
+How best to use limited tests? Improving COVID-19 surveillance in long-term care
+Optimization of Microbiological Laboratory Detection Strategy for Patients in A Designated Hospital Treating Novel Coronavirus Pneumonia in Anhui Province
+Rapid identification of SARS-CoV-2-infected patients at the emergency department using routine testing
+The production of antibodies for SARS-CoV-2 and its clinical implication
+Limited SARS-CoV-2 diversity within hosts and following passage in cell culture
+SARS-COV-2 comorbidity network and outcome in hospitalized patients in Crema, Italy
+Comparative analyses of SARS-CoV-2 binding (IgG, IgM, IgA) and neutralizing antibodies from human serum samples
+Treatment of 6 COVID-19 Patients with Convalescent Plasma
+A Nationwide Survey of UK cardiac surgeons view on clinical decision making during the COVID-19 pandemic
+Diagnosis of Acute Respiratory Syndrome Coronavirus 2 Infection by Detection of Nucleocapsid Protein
+Amplicon based MinION sequencing of SARS-CoV-2 and metagenomic characterisation of nasopharyngeal swabs from patients with COVID-19
+SARS-CoV-2 virus and antibodies in front-line Health Care Workers in an acute hospital in London: preliminary results from a longitudinal study
+Validation of a Self-administrable, Saliva-based RT-qPCR Test Detecting SARS-CoV-2
+SARS-CoV-2 placental infection and inflammation leading to fetal distress and neonatal multi-organ failure in an asymptomatic woman
+Viable SARS-CoV-2 in the air of a hospital room with COVID-19 patients
+Assessment of multiplex digital droplet RT-PCR as an accurate diagnosis tool for SARS-CoV-2 detection in nasopharyngeal swabs and saliva samples
+SalivaDirect: Simple and sensitive molecular diagnostic test for SARS-CoV-2 surveillance
+Use of siltuximab in patients with COVID-19 pneumonia requiring ventilatory support
+High Resolution CHEST CT(HRCT) Evaluation in Patients Hospitalized with COVID-19 Infection
+Integrated sample inactivation, amplification, and Cas13-based detection of SARS-CoV-2
+Saliva sampling is an excellent option to increase the number of SARS CoV2 diagnostic tests in settings with supplies shortages
+Analytical and Clinical Validation for RT-qPCR detection of SARS-CoV-2 without RNA extraction
+Outbreak of Kawasaki disease in children during COVID-19 pandemic: a prospective observational study in Paris, France
+Patient DNA cross-reactivity of CDC SARS-nCoV2 extraction control leads to potential false negative results
+The Seasonal End of Human Coronavirus Hospital Admissions with Implications for SARS-CoV-2
+Extended Storage of SARS-CoV2 Nasopharyngeal Swabs Does Not Negatively Impact Results of Molecular-Based Testing
+Clinical Characteristics of Coronavirus Disease 2019 in Hainan, China
+RT-qPCR DETECTION OF SARS-CoV-2 RNA FROM PATIENT NASOPHARYNGEAL SWAB USING QIAGEN RNEASY KITS OR DIRECTLY VIA OMISSION OF AN RNA EXTRACTION STEP
+Respiratory disease and virus shedding in rhesus macaques inoculated with SARS-CoV-2
+Changes in RT-PCR-positive SARS-CoV-2 rates in adults and children according to the epidemic stages
+Epidemiological study to detect active SARS-CoV-2 infections and seropositive persons in a selected cohort of employees in the Frankfurt am Main metropolitan area
+Mass Spectrometric detection of SARS-CoV-2 virus in scrapings of the epithelium of the nasopharynx of infected patients via Nucleocapsid N protein
+Evaluating the efficacy of RT-qPCR SARS-CoV-2 direct approaches in comparison to RNA extraction
+Community prevalence of SARS-CoV-2 virus in England during May 2020: REACT study
+COVID-19 infection results in alterations of the kynurenine pathway and fatty acid metabolism that correlate with IL-6 levels and renal status
+Saliva is less sensitive than nasopharyngeal swabs for COVID-19 detection in the community setting
+Screening of healthcare workers for SARS-CoV-2 highlights the role of asymptomatic carriage in COVID-19 transmission
+Pooling of samples to optimize SARS-CoV-2 diagnosis by RT-qPCR: comparative analysis of two protocols.
+Monitoring COVID-19 transmission risks by RT-PCR tracing of droplets in hospital and living environments
+End-to-End Protocol for the Detection of SARS-CoV-2 from Built Environments
+Longitudinal SARS-CoV-2 serosurveillance of over ten thousand health care workers in the Providence Oregon cohort.
+Suppression of COVID-19 outbreak in the municipality of Vo, Italy
+Objective olfactory testing in patients presenting with sudden onset olfactory dysfunction as the first manifestation of confirmed COVID-19 infection
+Quantitative COVID-19 infectiousness estimate correlating with viral shedding and culturability suggests 68% pre-symptomatic transmissions
+Optimizing direct RT-LAMP to detect transmissible SARS-CoV-2 from primary patient samples
+SalivaAll: Clinical validation of a sensitive test for saliva collected in healthcare and community settings with pooling utility for SARS-CoV-2 mass surveillance.
+SARS-CoV-2 in environmental samples of quarantined households
+Syncope at SARS-CoV-2 onset due to impaired baroreflex response
+Fast SARS-CoV-2 detection by RT-qPCR in preheated nasopharyngeal swab samples
+SARS-CoV-2-RNA viremia is associated to hypercytokinemia and critical illness in COVID-19
+Post-infection depression, anxiety and PTSD: a retrospective cohort study with mild COVID-19 patients
+Implementation and validation of a pooling strategy for a sustainable screening campaign for the presence of SARS-CoV-2.
+Evaluating the adequacy of Prima Covid-19 IgG/IgM Rapid Test for the assessment of exposure to SARS-CoV-2 virus
+Highly multiplexed oligonucleotide probe-ligation testing enables efficient extraction-free SARS-CoV-2 detection and viral genotyping
+Environmental Contamination of SARS-CoV-2 in a Non-Healthcare Setting Revealed by Sensitive Nested RT-PCR
+Implementation and evaluation of a novel real-time multiplex assay for SARS-CoV-2: In-field learnings from a clinical microbiology laboratory
+Rapid SARS-CoV-2 testing in primary material based on a novel multiplex LAMP assay
+Outcome of COVID-19 with co-existing surgical emergencies in children: our initial experiences and recommendations
+A multi-centre prospective study of COVID-19 transmission following outpatient Gastrointestinal Endoscopy in the United Kingdom
+Assessment of a Laboratory-Based SARS-CoV-2 Antibody Test Among Hemodialysis Patients: A Quality Improvement Initiative
+Host metabolic reprogramming in response to SARS-Cov-2 infection
+Testing for SARS-CoV-2 in care home staff and residents in English care homes: A service evaluation
+Therapeutic effectiveness of interferon alpha 2b treatment for COVID-19 patient recovery
+Cotton tipped plastic swabs for SARS-CoV-2 RT-qPCR diagnosis to prevent supplies shortage.
+The natural history and transmission potential of asymptomatic SARS-CoV-2 infection
+Distinguishing between COVID-19 and the common cold in a primary care setting - comparison of patients with positive and negative SARS-CoV-2 PCR results.
+SARS-CoV-2 surveillance in decedents in a large, urban medical examiner's office
+Positivity of SARS-CoV-2, by RT-PCR among workers of a Public Hospital in the city of Santos, SP, Brazil 2020.
+Efficacy of a novel SARS-CoV-2 detection kit without RNA extraction and purification
+Older age is associated with sustained detection of SARS-CoV-2 in nasopharyngeal swab samples
+Sensitivity of nasopharyngeal swabs and saliva for the detection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+On the assessment of more reliable COVID-19 infected number: the italian case.
+Flocked swab might be one main reason causing the high false-negative rate in COVID-19 screening----the advantages of a novel silicone swab
+First month of the epidemic caused by COVID-19 in Italy: current status and real-time outbreak development forecast
+Estimation of SARS-CoV-2 emissions from non-symptomatic cases
+Role of Anti-SARS-CoV-2 antibodies in different cohorts: Can they provide clues for appropriate patient triaging?
+Alternative or Complementary Role of Serological Rapid Antibody Test in the Management of Possible COVID-19 Cases
+Genome sequencing of sewage detects regionally prevalent SARS-CoV-2 variants
+Self-collected Saline Gargle Samples as an Alternative to Healthcare Worker Collected Nasopharyngeal Swabs for COVID-19 Diagnosis in Outpatients
+Delirium is a presenting symptom of COVID-19 in frail, older adults: a cohort study of 322 hospitalised and 535 community-based older adults
+A secure and rapid query-software for COVID-19 test results that can easily be integrated into the clinical workflow to avoid communication overload
+Protocol for a multicentre study of nosocomial SARS-CoV2 transmission The NOSO-COR Project
+Optimizing diagnostic strategy for novel coronavirus pneumonia, a multi-center study in Eastern China
+Optimization of SARS-CoV-2 detection by RT-QPCR without RNA extraction
+Rhesus macaques can be effectively infected with SARS-CoV-2 via ocular conjunctival route
+Prolonged presence of SARS-CoV-2 in feces of pediatric patients during the convalescent phase
+Application and optimization of RT-PCR in diagnosis of SARS-CoV-2 infection
+The infection evidence of SARS-COV-2 in ocular surface： a single-center cross-sectional study
+Conjunctival polymerase chain reaction-tests of 2019 novel coronavirus in patients in Shenyang,China
+Comparison of Cepheid Xpert Xpress and Abbott ID Now to Roche cobas for the Rapid Detection of SARS-CoV-2
+A rapid, low cost, and highly sensitive SARS-CoV-2 diagnostic based on whole genome sequencing
+Pushing beyond specifications: Evaluation of linearity and clinical performance of a fully automated SARS-CoV-2 RT-PCR assay for reliable quantification in blood and other materials outside recommendations
+One-Step Rapid Quantification of SARS-CoV-2 Virus Particles via Low-Cost Nanoplasmonic Sensors in Generic Microplate Reader and Point-of-Care Device
+Longitudinal Surveillance for SARS-CoV-2 RNA Among Asymptomatic Staff in Five Colorado Skilled Nursing Facilities: Epidemiologic, Virologic and Sequence Analysis.
+A Mathematical prediction of the time evolution of the Covid-19 pandemic in some countries of the European Union using Monte Carlo simulations
+Comparison of viral levels in individuals with or without symptoms at time of COVID-19 testing among 32,480 residents and staff of nursing homes and assisted living facilities in Massachusetts.
+Comparing dynamics and determinants of SARS-CoV-2 transmissions among health care workers of adult and pediatric settings in central Paris
+COVID-19: a retrospective cohort study with focus on the over-80s and hospital-onset disease
+ddPCR: a more sensitive and accurate tool for SARS-CoV-2 detection in low viral load specimens
+Development of a dual-gene loop-mediated isothermal amplification (LAMP) detection assay for SARS-CoV-2: A preliminary study
+High-throughput extraction of SARS-CoV-2 RNA from nasopharyngeal swabs using solid-phase reverse immobilization beads
+Survival of hospitalized COVID-19 patients in Northern Italy: a population-based cohort study by the ITA-COVID19 Network
+Comparison of SARS-CoV-2 detection in nasopharyngeal swab and saliva
+Analysis of factors associated early diagnosis in coronavirus disease 2019 (COVID-19)
+Equivalent SARS-CoV-2 viral loads between nasopharyngeal swab and saliva in symptomatic patients
+Overhauling a faulty control in the CDC-recommended SARS-CoV-2 RT-PCR test
+Pre-Procedural Surveillance Testing for SARS-CoV-2 in an Asymptomatic Population Shows Low Rates of Positivity
+A Research on the Results of Viral Nucleic Acid Tests and CT Imaging Variation of Patients with COVID-19
+Ocular manifestations and clinical characteristics of 534 cases of COVID-19 in China: A cross-sectional study
+Duration of viral detection in throat and rectum of a patient with COVID-19
+Environmental contamination of the SARS-CoV-2 in healthcare premises: An urgent call for protection for healthcare workers
+Machine learning in predicting respiratory failure in patients with COVID-19 pneumonia - challenges, strengths, and opportunities in a global health emergency
+Development and clinical application of a rapid and sensitive loop-mediated isothermalamplification test for SARS-CoV-2 infection
+Congregate Shelter Characteristics and Prevalence of Asymptomatic SARS-CoV-2
+A comprehensive analysis of recovered COVID-19 patients and dynamic trend in antibodies over 3 months using ELISA and CLIA methods.
+Therapeutic effectiveness of interferon-alpha2b against COVID-19: the Cuban experience
+Detection of asymptomatic SARS-CoV-2 infections among healthcare workers: results from a large-scale screening program based on rapid serological testing.
+Microbial contamination of powered air purifying respirators (PAPR) used during the COVID-19 pandemic: an in situ microbiological study
+A sub-national analysis of the rate of transmission of COVID-19 in Italy
+Screening for SARS-CoV-2 infections with colorimetric RT-LAMP and LAMP sequencing
+No evidence of coronaviruses or other potentially zoonotic viruses in Sunda pangolins (Manis javanica) entering the wildlife trade via Malaysia.
+Validation of a Single-step, Single-tube Reverse Transcription-Loop-Mediated Isothermal Amplification Assay for Rapid Detection of SARS-CoV-2 RNA
+Maternal and perinatal characteristics and outcomes of pregnancies complicated with COVID-19 in Kuwait
+A statistical method of batch screening entrying population from abroad by stages and groups in COVID-19 nucleic acid testing
+EPICOVID19: Psychometric assessment and validation of a short diagnostic scale for a rapid Covid-19 screening based on reported symptoms
+Prospective Observational Study of Screening Asymptomatic Healthcare Workers for SARS-CoV-2 at a Canadian Tertiary Care Center
+Clinical Characteristics of 24 Asymptomatic Infections with COVID-19 Screened among Close Contacts in Nanjing, China
+Comparison of throat swabs and sputum specimens for viral nucleic acid detection in 52 cases of novel coronavirus (SARS-Cov-2) infected pneumonia (COVID-19)
+Air and surface contamination in non-health care settings among 641 environmental specimens of 39 COVID-19 cases
+Seroprevalence of SARS-CoV-2 IgG significantly varies with age: results from a mass population screening (SARS-2-SCREEN-CdA).
+Sensitivity of different RT-qPCR solutions for SARS-CoV-2 detection
+Broncho-alveolar inflammation in COVID-19 patients: a correlation with clinical outcome
+Vinegar and Its Active Component Acetic Acid Inhibit SARS-CoV-2 Infection In Vitro and Ex Vivo
+Design and clinical validation of a 3D-printed nasopharyngeal swab for COVID-19 testing
+Hydroxychloroquine is associated with slower viral clearance in clinical COVID-19 patients with mild to moderate disease: A retrospective study
+Seroprevalence of antibodies against SARS-CoV-2 among health care workers in a large Spanish reference hospital
+SARS-CoV-2 detection using digital PCR for COVID-19 diagnosis, treatment monitoring and criteria for discharge
+Virus shedding patterns in nasopharyngeal and fecal specimens of COVID-19 patients
+SARS-CoV-2 detection from nasopharyngeal swab samples without RNA extraction
+COVID-19 and first trimester spontaneous abortion: a case-control study of 225 pregnant patients
+Management and Clinical Characteristics in Children with SARS-CoV-2 Infection: Experience in a highly complex public hospital in the city of Sao Paulo
+First results from the UK COVID-19 Serology in Oncology Staff Study (CSOS)
+Preliminary optimisation of a simplified sample preparation method to permit direct detection of SARS-CoV-2 within saliva samples using reverse-transcription loop-mediated isothermal amplification (RT-LAMP)
+Resurgence of SARS-CoV-2 in England: detection by community antigen surveillance
+SARS-CoV-2 detection by extraction-free qRT-PCR for massive and rapid COVID-19 diagnosis during a pandemic
+Saliva as a potential clinical specimen for diagnosis of SARS-CoV-2
+Why is chest CT important for early diagnosis of COVID-19? Prevalence matters
+Analytical sensitivity and efficiency comparisons of SARS-COV-2 qRT-PCR assays
+Clinical and Laboratory Profiles of 75 Hospitalized Patients with Novel Coronavirus Disease 2019 in Hefei, China
+Restoration of leukomonocyte counts is associated with viral clearance in COVID-19 hospitalized patients
+Evaluation of performance of two SARS-CoV-2 Rapid whole-blood finger-stick IgM-IgGCombined Antibody Tests
+The Rapid Deployment of a 3D Printed Latticed Nasopharyngeal Swab for COVID-19 Testing Made Using Digital Light Synthesis
+Improved COVID-19 testing by extraction free SARS-Cov-2 RT-PCR
+Scalable and Resilient SARS-CoV2 testing in an Academic Centre
+Clinical Characteristics and Risk factors for developed COVID-19 patients transferring to designated hospital from Jianghan Fangcang shelter Hospital: a retrospective, observational study
+Prevalence of amyloid blood clots in COVID-19 plasma
+Clinical and behavioural characteristics of self-isolating healthcare workers during the COVID-19 pandemic: a single-centre observational study
+Characteristics of 1,573 healthcare workers who underwent nasopharyngeal swab for SARS-CoV-2 in Milano, Lombardy, Italy
+Clinical characteristics and fecal-oral transmission potential of patients with COVID-19
+Effects of Coronavirus Disease 2019 (COVID-19) on Maternal, Perinatal and Neonatal Outcomes: a Systematic Review of 266 Pregnancies
+Healthcare workers in elderly care: a source of silent SARS-CoV-2 transmission?
+Treatment with an Anti-CK2 Synthetic Peptide Improves Clinical Response in Covid-19 Patients with Pneumonia. A Randomized and Controlled Clinical Trial
+Impact of SARS-CoV-2 antibodies at delivery in women, partners and newborns
+SARS-CoV-2 N-antigenemia: A new alternative to nucleic acid amplification techniques
+Viral Kinetics and Antibody Responses in Patients with COVID-19
+Modes of contact and risk of transmission in COVID-19 among close contacts
+Detection of SARS-CoV-2 RNA by direct RT-qPCR on nasopharyngeal specimens without extraction of viral RNA
+Gastrointestinal symptoms as Covid-19 onset in hospitalized Italian patients
+Incidence and outcomes of healthcare-associated COVID-19 infections: significance of delayed diagnosis and correlation with staff absence
+Clinical validation of innovative, low cost, kit-free, RNA processing protocol for RT-PCR based COVID-19 testing.
+Delirium Incidence, Duration and Severity in Critically Ill Patients with COVID-19
+Dynamics of the SARS-CoV-2 epidemic in the earliest-affected areas in Italy: 1 Mass screening for SARS-CoV-2 serological positivity (SARS-2-SCREEN).
+Epidemiological characteristics of patients with residual SARS-Cov-2 in Linyi, China
+Saliva-Based Molecular Testing for SARS-CoV-2 that Bypasses RNA Extraction
+Reverse transcription loop-mediated isothermal amplification combined with nanoparticles-based biosensor for diagnosis of COVID-19
+Diagnosis of SARS-CoV-2 in children: accuracy of nasopharyngeal swab compared to nasopharyngeal aspirate.
+Effective Heat Inactivation of SARS-CoV-2
+Single-strand RPA for rapid and sensitive detection of SARS-CoV-2 RNA
+Look before diving into pooling of SARS-CoV-2 samples on high throughput analyzers
+Long period dynamics of viral load and antibodies for SARS-CoV-2 infection: an observational cohort study
+Antibody Profiling and Prevalence in the US population during the SARS-CoV2 Pandemic
+Is nasopharyngeal swab comparable with nasopharyngeal aspirate to detect SARS-CoV-2 in children?
+Exposure assessment for airborne transmission of SARS-CoV-2 via breathing, speaking, coughing and sneezing
+Routine laboratory blood tests predict SARS-CoV-2 infection using machine learning
+Proteotyping SARS-CoV-2 virus from nasopharyngeal swabs: a proof-of-concept focused on a 3 min mass spectrometry window
+Effect of Heat inactivation on Real-Time Reverse Transcription PCR of the SARS-COV-2 Detection
+Animal Model Prescreening: Pre-exposure to SARS-CoV-2 impacts responses in the NHP model
+Swab Tests and COVID 19, Italy case studied using Artificial Intelligence, Statistical Analysis and MLR
+COVID-19 in a cohort of pregnant women and their descendants. Cohort profile in the MOACC-19 study
+A clinical MALDI-ToF Mass spectrometry assay for SARS-CoV-2: Rational design and multi-disciplinary team work.
+Electric-field-driven microfluidics for rapid CRISPR-based diagnostics and its application to detection of SARS-CoV-2
+Pooling nasopharyngeal swab specimens to increase testing capacity for SARS-CoV-2
+Covid 19 and orthopaedic surgery in a large trauma centre in India
+Is Higher Viral Load in SARS-CoV-2 Associated With Death?
+Development of mass spectrometry-based targeted assay for direct detection of novel SARS-CoV-2 coronavirus from clinical specimens
+Rapid systematic review of the sensitivity of SARS-CoV-2 molecular testing on saliva compared to nasopharyngeal swabs
+Transient dynamics of SARS-CoV-2 as England exited national lockdown
+CovidNudge: diagnostic accuracy of a novel lab-free point-of-care diagnostic for SARS-CoV-2
+An acceptable method to evaluate the analytical performance of real-time fluorescent RT-PCR targeting SARS-CoV-2
+Development and Validation of Two In-house, Low-Cost SARS-CoV-2 Detection Assays
+Time to negative PCR from symptom onset in COVID-19 patients on Hydroxychloroquine and Azithromycin - A real world experience
+Whole Care Home Testing for Covid-19 in a Local Authority Area in the United Kingdom
+SARS-CoV-2 Infection Among Symptom-Free Healthcare Workers
+Hydroxychloroquine has no effect on SARS-CoV-2 load in nasopharynx of patients with mild form of COVID-19
+Rapid detection of SARS-CoV-2 infection by multicapillary column coupled ion mobility spectrometry (MCC-IMS) of breath. A proof of concept study
+SARS-CoV-2 infection, neuropathogenesis and transmission among deer mice: Implications for reverse zoonosis to New World rodents
+Safety of hot and cold site admissions within a high volume urology department in the United Kingdom at the peak of the COVID-19 pandemic
+COVID-19 SCREENING AND MONITORING OF ASYMPTOMATIC HEALTH WORKERS WITH A RAPID SEROLOGICAL TEST
+Digital droplet PCR accurately quantifies SARS-CoV-2 viral load from crude lysate without nucleic acid purification
+The impact of high frequency rapid viral antigen screening on COVID-19 spread and outcomes: a validation and modeling study
+Identification of Immune complement function as a determinant of adverse SARS-CoV-2 infection outcome
+Saliva as a non-invasive sample for the detection of SARS-CoV-2: a systematic review
+SARS-CoV-2 asymptomatic and symptomatic patients and risk for transfusion transmission
+Evaluation the auxiliary diagnosis value of antibodies assays for detection of novel coronavirus (SARS-Cov-2) causing an outbreak of pneumonia (COVID-19)
+Automated molecular testing of saliva for SARS-CoV-2 detection
+Analysis and validation of a highly sensitive one-step nested quantitative real-time polymerase chain reaction assay for specific detection of severe acute respiratory syndrome coronavirus 2
+Practical challenges to the clinical implementation of saliva for SARS-CoV-2 detection
+A sensitive and affordable multiplex RT-qPCR assay for SARS-CoV-2 detection
+An improved mathematical prediction of the time evolution of the Covid-19 Pandemic in Italy, with Monte Carlo simulations and error analyses
+Protocol of a population-based prospective COVID-19 cohort study Munich, Germany (KoCo19)
+Epidemiologic and Clinical Characteristics of 91 Hospitalized Patients with COVID-19 in Zhejiang, China: A retrospective, multi-centre case series
+Swab pooling for large-scale RT-qPCR screening of SARS-CoV-2
+SARS-CoV-2 On-the-Spot Virus Detection Directly From Patients
+Comparison of Commercially Available and Laboratory Developed Assays for in vitro Detection of SARS-CoV-2 in Clinical Laboratories
+Assessment of the risk of SARS-CoV-2 reinfection in an intense re-exposure setting
+TARGETED PROTEOMICS FOR THE DETECTION OF SARS-COV-2 PROTEINS.
+Preliminary support for a 'dry swab, extraction free' protocol for SARS-CoV-2 testing via RT-qPCR
+High frequency of SARS-CoV-2 RNAemia and association with severe disease
+Shedding of infectious SARS-CoV-2 in symptomatic neonates, children and adolescents
+Using the COVID-19 to influenza ratio to estimate the numbers of symptomatic COVID-19 cases in Wuhan prior to the lockdown
+Severe Acute Respiratory Syndrome Coronavirus 2 Serology in Asymptomatic Healthcare Professionals: Preliminary Experience of a Tertiary Italian Academic Center.
+FACT- Frankfurt adjusted COVID-19 testing- a novel method enables high-throughput SARS-CoV-2 screening without loss of sensitivity
+Clinical presentation and evolution of COVID-19 in immunosuppressed patients. Preliminary evaluation in a North Italian cohort on calcineurin-inhibitors based therapy
+Characterizing the Qatar advanced-phase SARS-CoV-2 epidemic
+Effectiveness of Ivermectin as add-on Therapy in COVID-19 Management (Pilot Trial)
+Community prevalence of SARS-CoV-2 in England: Results from the ONS Coronavirus Infection Survey Pilot
+Viral shedding dynamics reveals sputum as a reliable and cost-saving specimen for SARS-CoV-2 diagnosis within the first 10 days since symptom onset: A prospective cohort study
+Microfluidic nano-scale qPCR enables ultra-sensitive detection of SARS-CoV-2
+Bronchoscopy on Intubated COVID-19 Patients is Associated with Low Infectious Risk to Operators at a High-Volume Center Using an Aerosol-minimizing Protocol
+Investigating SARS-CoV-2 surface and air contamination in an acute healthcare setting during the peak of the COVID-19 pandemic in London
+SARS-CoV-2 detection in nasopharyngeal throat swabs by metagenomics

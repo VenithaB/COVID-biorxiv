@@ -1,0 +1,58 @@
+Point-of-care testing for COVID-19 using SHERLOCK diagnostics
+Elucidation of remdesivir cytotoxicity pathways through genome-wide CRISPR-Cas9 screening and transcriptomics
+The UCSC SARS-CoV-2 Genome Browser
+Genome-wide CRISPR screen reveals host genes that regulate SARS-CoV-2 infection
+CRISPR-based COVID-19 surveillance using a genomically-comprehensive machine learning approach
+An ultrasensitive, rapid, and portable coronavirus SARS-CoV-2 sequence detection method based on CRISPR-Cas12
+Treating Influenza and SARS-CoV-2 via mRNA-encoded Cas13a
+Rapid Detection of 2019 Novel Coronavirus SARS-CoV-2 Using a CRISPR-based DETECTR Lateral Flow Assay
+All-in-One Dual CRISPR-Cas12a (AIOD-CRISPR) Assay: A Case for Rapid, Ultrasensitive and Visual Detection of Novel Coronavirus SARS-CoV-2 and HIV virus
+The diagnostic accuracy of nucleic acid point-of-care tests for human coronavirus: A systematic review and meta-analysis
+Rapid and accurate detection of novel coronavirus SARS-CoV-2 using CRISPR-Cas3
+SARS-CoV-2 detection with CRISPR diagnostics
+iSCAN: An RT-LAMP-coupled CRISPR-Cas12 module for rapid, sensitive detection of SARS-CoV-2
+CRISPR-based and RT-qPCR surveillance of SARS-CoV-2 in asymptomatic individuals uncovers a shift in viral prevalence among a university population
+Development of CRISPR as a prophylactic strategy to combat novel coronavirus and influenza
+Furin cleavage of SARS-CoV-2 Spike promotes but is not essential for infection and cell-cell fusion
+The S1/S2 boundary of SARS-CoV-2 spike protein modulates cell entry pathways and transmission
+Development and Evaluation of A CRISPR-based Diagnostic For 2019-novel Coronavirus
+Orthogonal genome-wide screenings in bat cells identify MTHFD1 as a target of broad antiviral therapy
+Rapid, sensitive and specific SARS coronavirus-2 detection: a multi-center comparison between standard qRT-PCR and CRISPR based DETECTR.
+Generation of glucocorticoid resistant SARS-CoV-2 T-cells for adoptive cell therapy
+A new role for Biofoundries in rapid prototyping, development, and validation of automated clinical diagnostic tests for SARS-CoV-2
+Functional interrogation of a SARS-CoV-2 host protein interactome identifies unique and shared coronavirus host factors
+Electric-field-driven microfluidics for rapid CRISPR-based diagnostics and its application to detection of SARS-CoV-2
+A CRISPR-based SARS-CoV-2 diagnostic assay that is robust against viral evolution and RNA editing
+The landscape of host genetic factors involved in infection to common viruses and SARS-CoV-2
+Tracing two causative SNPs reveals SARS-CoV-2 transmission in North America population
+Secondary analysis of transcriptomes of SARS-CoV-2 infection models to characterize COVID-19
+Elucidation of Genome Polymorphisms in Emerging SARS-CoV-2
+Insights into The Codon Usage Bias of 13 Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Isolates from Different Geo-locations
+Phylogenetic clustering of the Indian SARS-CoV-2 genomes reveals the presence of distinct clades of viral haplotypes among states
+A gene locus that controls expression of ACE2 in virus infection
+COVID-19 Patients Form Memory CD8+ T Cells that Recognize a Small Set of Shared Immunodominant Epitopes in SARS-CoV-2
+Genetic associations for two biological age measures point to distinct aging phenotypes
+Genetic validation of the use of tocilizumab, statins and dexamethasone in COVID-19
+SARS-CoV-2 genetic variations associated with COVID-19 severity
+The ABO blood group locus and a chromosome 3 gene cluster associate with SARS-CoV-2 respiratory failure in an Italian-Spanish genome-wide association analysis
+Analysis of single nucleotide polymorphisms between 2019-nCoV genomes and its impact on codon usage
+Genome-wide variations of SARS-CoV-2 infer evolution relationship and transmission route
+Cell-Free DNA in Blood Reveals Significant Cell, Tissue and Organ Specific injury and Predicts COVID-19 Severity
+AGE IS ASSOCIATED WITH INCREASED EXPRESSION OF PATTERN RECOGNITION RECEPTOR GENES AND ACE2, THE RECEPTOR FOR SARS-COV-2: IMPLICATIONS FOR THE EPIDEMIOLOGY OF COVID-19 DISEASE
+SRSF protein kinases 1 and 2 are essential host factors for human coronaviruses including SARS-CoV-2
+Comprehensive analysis of genomic diversity of SARS-CoV-2 in different geographic regions of India: An endeavour to classify Indian SARS-CoV-2 strains on the basis of co-existing mutations
+Structural variability, expression profile and pharmacogenetics properties of TMPRSS2 gene as a potential target for COVID-19 therapy
+Association of 25 hydroxyvitamin D concentration with risk of COVID-19: a Mendelian randomization study
+Lung expression of genes encoding SARS-CoV-2 cell entry molecules and antiviral restriction factors: interindividual differences are associated with age and germline variants
+Unsupervised cluster analysis of SARS-CoV-2 genomes reflects its geographic progression and identifies distinct genetic subgroups of SARS-CoV-2 virus
+Vitamin D and Covid-19 Susceptibility and Severity: a Mendelian Randomization Study
+ACE inhibition and cardiometabolic risk factors, lung ACE2 and TMPRSS2 gene expression, and plasma ACE2 levels: a Mendelian randomization study
+ACE 2 Coding Variants: A Potential X-linked Risk Factor for COVID-19 Disease
+Regional differences in reported Covid-19 cases show genetic correlations with higher socio-economic status and better health, potentially confounding studies on the genetics of disease susceptibility
+Cardiometabolic traits, sepsis and severe covid-19 with respiratory failure: a Mendelian randomization investigation
+Conserved Genomic Terminals of SARS-CoV-2 as Co-evolving Functional Elements and Potential Therapeutic Targets
+Trans-ethnic analysis reveals genetic and non-genetic associations with COVID-19 susceptibility and severity
+Pleotropic association between risk and prognosis of COVID-19 and gene expression in blood and lung: A Mendelian randomization analysis
+Cardiometabolic Risk Factors for COVID-19 Susceptibility and Severity: A Mendelian Randomization Analysis
+Obesity has an impact on COVID-19 susceptibility and severity: a two-sample Mendelian randomization study
+Genes associated with liver damage signalling pathways may impact the severity of COVID-19 symptoms in Spanish and Italian populations
