@@ -59,7 +59,7 @@ def searchall(keywords):
 	result=[]
 	for k in keywords:
 		result.extend(search(k))
-	return result
+	return result	
 	
 def removedupes(result):
 	seen=[]
@@ -125,7 +125,8 @@ def filter_date(res,startdate):
         if datetime.strptime(d['rel_date'], '%Y-%m-%d')<=startdate:
             filtered.append(d)
     return filtered
-	  
+
+
 #read collection in memory
 collection=read_collection()
 
@@ -142,8 +143,14 @@ print(get_terms())
 #multiple keyword search
 #tosearch=['proteomics','proteome','mass spectrometry']
 #tosearch=['transcriptome','RNA-Seq','nasal','oropharyngeal','swab']
-tosearch=['CRISPR','genome-wide','CRISPR-Cas9']
-res=searchall(tosearch)
+#res=searchall(tosearch)
+
+tosearch=['CRISPR','genome-wide screen']
+#res=searchall(tosearch)
+res=[]
+for d in collection:
+	if (tosearch[0].lower() in d['rel_abs'].lower()) or (tosearch[1].lower() in d['rel_abs'].lower()):
+		res.append(d)	
 
 print("\nNumber of matches for keywords ",tosearch,"is :",len(res))
 
@@ -151,19 +158,22 @@ print("\nNumber of matches for keywords ",tosearch,"is :",len(res))
 filt_res=removedupes(res)
 
 #Filtering by date
-fdate=datetime.strptime('2020-09-15', '%Y-%m-%d')
+#fdate=datetime.strptime('2020-09-15', '%Y-%m-%d')
+fdate=datetime.strptime('2020-10-12', '%Y-%m-%d')
+
 final_res=get_info(filter_date(filt_res,fdate))
 
 print("\nNumber of records matching ",tosearch,"filtered before ",fdate,"is ",len(final_res),"\n")
 
 filename=datetime.today().strftime('%Y-%m-%d')
 
+print("****************************************************************************************************************************")
 print("\nWriting results to file ",filename + ".txt","\n")
-
+        
 with open("title_" + filename + ".txt", 'w') as f:
     for item in final_res:
         f.write("%s\n" % item)
-        
+
 command=['sed','"s/^/https:\/\/doi.org\//"',"doi_" + filename + ".txt",">","doi_" + filename+ "_edited" + ".txt"]
 command= " ".join(command)
 

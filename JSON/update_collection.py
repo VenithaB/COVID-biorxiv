@@ -12,7 +12,7 @@ import subprocess
 
 #os.chdir("/home/group_bioIT01/Venitha/Test")
 #os.chdir("D:/My Documents/GitHub/COVID-biorxiv/JSON/")
-os.chdir("/home/dell/Documents/Venitha/COVID_19_Meta/General/COVID-biorxiv/JSON")
+os.chdir("/home/user/Documents/Venitha/COVID_19_Meta/General/COVID-biorxiv/JSON")
 
 def execute_commandRealtime(cmd):
     """Execute shell command and print stdout in realtime.
@@ -35,14 +35,15 @@ def update_collection():
     '''
     Download bioarxiv and medarxiv collections
     '''
-    for x in range(0,8957,30):
+#    for x in range(0,8957,30): #Date: Sep 24 2020
+    for x in range(0,9463,30): #Date: Oct 12 2020
                    link='https://api.biorxiv.org/covid19/{}/json'.format(x)
                    outfile='collection{}.json'.format(x)
                    print('Downloading ...')
                    for output in execute_commandRealtime(['curl','-o',outfile,link]):
                        print (output)
 
-#update_collection()
+update_collection()
 
 result = []
 i=0
