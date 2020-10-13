@@ -50,7 +50,7 @@ def search(term):
 	result=[]
 	for d in collection:
 		#search in all keys
-		if term.lower() in d['rel_abs'].lower():
+		if (term.lower() in d['rel_title'].lower()) or (term.lower() in d['rel_abs'].lower()):
 			result.append(d)
 			#return(np.unique(np.array(result)))
 	return(result)	
@@ -145,12 +145,28 @@ print(get_terms())
 #tosearch=['transcriptome','RNA-Seq','nasal','oropharyngeal','swab']
 #res=searchall(tosearch)
 
-tosearch=['CRISPR','genome-wide screen']
+
+
+#CRISPR
+#tosearch=['CRISPR','genome-wide screen']
+#res=[]
+#for d in collection:
+#	if (tosearch[0].lower() in d['rel_abs'].lower() or tosearch[0].lower() in d['rel_title'].lower()) or (tosearch[1].lower() in d['rel_abs'].lower() or tosearch[1].lower() in d['rel_title'].lower()):
+#		res.append(d)	
+
+#Interactome
+tosearch=['Interactome','Protein-Protein Interaction','Protein-Protein Interactions','global proteome','Multi-omics','Multi-omic']
 #res=searchall(tosearch)
 res=[]
 for d in collection:
-	if (tosearch[0].lower() in d['rel_abs'].lower()) or (tosearch[1].lower() in d['rel_abs'].lower()):
-		res.append(d)	
+	if tosearch[0].lower() in d['rel_abs'].lower() or tosearch[0].lower() in d['rel_title'].lower(): 
+		res.append(d)
+	elif (tosearch[1].lower() in d['rel_abs'].lower() or tosearch[1].lower() in d['rel_title'].lower()) or (tosearch[2].lower() in d['rel_abs'].lower() or tosearch[2].lower() in d['rel_title'].lower()):
+		res.append(d)
+	elif tosearch[3].lower() in d['rel_abs'].lower() or tosearch[3].lower() in d['rel_title'].lower():
+		res.append(d)
+	elif (tosearch[4].lower() in d['rel_abs'].lower() or tosearch[4].lower() in d['rel_title'].lower()) or (tosearch[5].lower() in d['rel_abs'].lower() or tosearch[5].lower() in d['rel_title'].lower()):
+		res.append(d)
 
 print("\nNumber of matches for keywords ",tosearch,"is :",len(res))
 

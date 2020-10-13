@@ -1,0 +1,75 @@
+Single-Cell Omics Reveals Dyssynchrony of the Innate and Adaptive Immune System in Progressive COVID-19
+Effects of SARS-CoV-2 Mutations on Protein Structures and Intraviral Protein-Protein Interactions
+Structural and Functional Implications of Non-synonymous Mutations in the Spike protein of 2,954 SARS-CoV-2 Genomes
+Significance of hydrophobic and charged sequence similarities in sodium-bile acid cotransporter and vitamin D-binding protein macrophage activating factor
+Computational Hot-Spot Analysis of the SARS-CoV-2 Receptor Binding Domain / ACE2 Complex
+Ambroxol Hydrochloride Inhibits the Interaction between Severe Acute Respiratory Syndrome Coronavirus 2 Spike Protein's Receptor Binding Domain and Recombinant Human ACE2.
+Interplay of host regulatory network on SARS-CoV-2 binding and replication machinery
+A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing
+Longitudinal multi-omics analysis identifies responses of megakaryocytes, erythroid cells and plasmablasts as hallmarks of severe COVID-19 trajectories
+Alignment of virus-host protein-protein interaction networks by integer linear programming: SARS-CoV-2
+In silico design and characterization of multiepitopes vaccine for SARS-CoV from its Spike proteins
+SARS-CoV-2 ORF6 disrupts nucleocytoplasmic transport through interactions with Rae1 and Nup98
+Molecular modelling predicts SARS-CoV-2 ORF8 protein and human complement Factor 1 catalytic domain sharing common binding site on complement C3b
+Multi-Omics integration analysis of respiratory specimen characterizes baseline molecular determinants associated with COVID-19 diagnosis.
+Impact Analysis of SARS-CoV2 on Signaling Pathways during COVID19 Pathogenesis using Codon Usage Assisted Host-Viral Protein Interactions
+Multiomic Immunophenotyping of COVID-19 Patients Reveals Early Infection Trajectories
+The short and long-range RNA-RNA Interactome of SARS-CoV-2
+Comparative transcriptome analyses reveal genes associated with SARS-CoV-2 infection of human lung epithelial cells
+Network-based Drug Repurposing for Human Coronavirus
+Integrative Bioinformatics Analysis Provides Insight into the Molecular Mechanisms of 2019-nCoV
+Fast assessment of human receptor-binding capability of 2019 novel coronavirus (2019-nCoV)
+Multi-level proteomics reveals host-perturbation strategies of SARS-CoV-2 and SARS-CoV
+Mutational signatures in countries affected by SARS-CoV-2: Implications in host-pathogen interactome
+A direct RNA-protein interaction atlas of the SARS-CoV-2 RNA in infected human cells
+Lung Disease Network Reveals the Impact of Comorbidity on SARS-CoV-2 infection
+Integrative Network Biology Framework Elucidates Molecular Mechanisms of SARS-CoV-2 Pathogenesis
+SARS-CoV2 (COVID-19) Structural/Evolution Dynamicome: Insights into functional evolution and human genomics.
+ACE2 interaction networks in COVID-19: a physiological framework for prediction of outcome in patients with cardiovascular risk factors
+Interfacial Water Molecules Make RBD of SPIKE Protein and Human ACE2 to Stick Together
+Protein covariance networks reveal interactions important to the emergence of SARS coronaviruses as human pathogens
+Methylene Blue Inhibits In Vitro the SARS-CoV-2 Spike - ACE2 Protein-Protein Interaction - A Mechanism That Can Contribute to Its Antiviral Activity Against COVID-19
+Molecular mechanisms of Cardiac Injury associated with myocardial SARS-CoV-2 infection
+Dark proteome of Newly Emerged SARS-CoV-2 in Comparison with Human and Bat Coronaviruses
+Prediction of receptorome for human-infecting virome
+Identification of biological correlates associated with respiratory failure in COVID-19
+Computational identification of human biological processes and protein sequence motifs putatively targeted by SARS-CoV-2 proteins using protein-protein interaction networks
+Multi-omics study revealing tissue-dependent putative mechanisms of SARS-CoV-2 drug targets on viral infections and complex diseases
+Systematic review and meta-analysis identifies potential host therapeutic targets in COVID-19.
+Identification of SARS-CoV-2 induced pathways reveal drug repurposing strategies
+Analyzing the impact of SARS CoV-2 on the human proteome
+Integrated analysis of bulk multi omic and single-cell sequencing data confirms the molecular origin of hemodynamic changes in Covid-19 infection explaining coagulopathy and higher geriatric mortality
+ALTERED MOLECULAR PATHWAYS OBSERVED IN NASO-OROPHARYNGEAL SAMPLES OF SARS-CoV-2 PATIENTS
+Differential Antibody Recognition by Novel SARS-CoV-2 and SARS-CoV Spike Protein Receptor Binding Domains: Mechanistic Insights
+SARS-CoV-2 ORF9c Is a Membrane-Associated Protein that Suppresses Antiviral Responses in Cells
+Comorbidities and Susceptibility to COVID-19: A Generalized Gene Set Meta-Analysis Approach
+CROssBAR: Comprehensive Resource of Biomedical Relations with Deep Learning Applications and Knowledge Graph Representations
+Comparative Genomic Analysis of Rapidly Evolving SARS CoV-2 Viruses Reveal Mosaic Pattern of Phylogeographical Distribution
+Multiscale statistical physics of the Human-SARS-CoV-2 interactome
+COVID-19 severity is associated with immunopathology and multi-organ damage
+Functional interrogation of a SARS-CoV-2 host protein interactome identifies unique and shared coronavirus host factors
+Multi-Omics and Integrated Network Approach to Unveil Evolutionary Patterns, Mutational Hotspots, Functional Crosstalk and Regulatory Interactions in SARS-CoV-2
+Phosphorylation modulates liquid-liquid phase separation of the SARS-CoV-2 N protein
+Multi-omics highlights ABO plasma protein as a causal risk factor for COVID-19
+Structural analysis of SARS-CoV-2 andprediction of the human interactome
+Computational Prediction of the Comprehensive SARS-CoV-2 vs. Human Interactome to Guide the Design of Therapeutics
+Biomechanical Characterization of SARS-CoV-2 Spike RBD and Human ACE2 Protein-Protein Interaction
+Master Regulator Analysis of the SARS-CoV-2/Human interactome
+SARS-CoV-2 and SARS-CoV Spike-RBD Structure and Receptor Binding Comparison and Potential Implications on Neutralizing Antibody and Vaccine Development
+Virus-host interactome and proteomic survey of PMBCs from COVID-19 patients reveal potential virulence factors influencing SARS-CoV-2 pathogenesis
+Lung biopsy cells transcriptional landscape from COVID-19 patient stratified lung injury in SARS-CoV-2 infection through impaired pulmonary surfactant metabolism
+SARS-CoV-2 proteins exploit host's genetic and epigenetic mediators for the annexation of key host signaling pathways that confers its immune evasion and disease pathophysiology
+The Trans-omics Landscape of COVID-19
+Co-expression of Mitochondrial Genes and ACE2 in Cornea Involved in COVID-19 Infection
+Global BioID-based SARS-CoV-2 proteins proximal interactome unveils novel ties between viral polypeptides and host factors involved in multiple COVID19-associated mechanisms
+A SARS-CoV-2 BioID-based virus-host membrane protein interactome and virus peptide compendium: new proteomics resources for COVID-19 research
+Secondary analysis of transcriptomes of SARS-CoV-2 infection models to characterize COVID-19
+A SARS-CoV-2 - host proximity interactome
+The IMEx Coronavirus interactome: an evolving map of Coronaviridae-Host molecular interactions
+Bio-JOIE: Joint Representation Learning of Biological Knowledge Bases
+Comparative multiplexed interactomics of SARS-CoV-2 and homologous coronavirus non-structural proteins identifies unique and shared host-cell dependencies
+Natural killer cell activation related to clinical outcome of COVID-19
+Network reinforcement driven drug repurposing for COVID-19 by exploiting disease-gene-drug associations
+Large-scale Multi-omic Analysis of COVID-19 Severity
+Functional and druggability analysis of the SARS-CoV-2 proteome
+COVID-19: Viral-host interactome analyzed by network based-approach model to study pathogenesis of SARS-CoV-2 infection.

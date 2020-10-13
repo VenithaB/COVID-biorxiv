@@ -1,0 +1,33 @@
+Furin cleavage of SARS-CoV-2 Spike promotes but is not essential for infection and cell-cell fusion
+Genome-wide CRISPR screen reveals host genes that regulate SARS-CoV-2 infection
+All-in-One Dual CRISPR-Cas12a (AIOD-CRISPR) Assay: A Case for Rapid, Ultrasensitive and Visual Detection of Novel Coronavirus SARS-CoV-2 and HIV virus
+Common genetic variation in humans impacts in vitro susceptibility to SARS-CoV-2 infection
+Direct detection of SARS-CoV-2 using CRISPR-Cas13a and a mobile phone
+Genome-scale identification of SARS-CoV-2 and pan-coronavirus host factor networks
+CRISPR-based and RT-qPCR surveillance of SARS-CoV-2 in asymptomatic individuals uncovers a shift in viral prevalence among a university population
+A CRISPR-based SARS-CoV-2 diagnostic assay that is robust against viral evolution and RNA editing
+The diagnostic accuracy of nucleic acid point-of-care tests for human coronavirus: A systematic review and meta-analysis
+SRSF protein kinases 1 and 2 are essential host factors for human coronaviruses including SARS-CoV-2
+SARS-CoV-2 detection with CRISPR diagnostics
+iSCAN: An RT-LAMP-coupled CRISPR-Cas12 module for rapid, sensitive detection of SARS-CoV-2
+Rapid and accurate detection of novel coronavirus SARS-CoV-2 using CRISPR-Cas3
+A CRISPR-Cas12a-based specific enhancer for more sensitive detection of SARS-CoV-2 infection
+The UCSC SARS-CoV-2 Genome Browser
+Functional genomic screens identify human host factors for SARS-CoV-2 and common cold coronaviruses
+Rapid, sensitive and specific SARS coronavirus-2 detection: a multi-center comparison between standard qRT-PCR and CRISPR based DETECTR.
+Rapid Detection of 2019 Novel Coronavirus SARS-CoV-2 Using a CRISPR-based DETECTR Lateral Flow Assay
+Systematic discovery and functional interrogation of SARS-CoV-2 viral RNA-host protein interactions during infection
+COVID-19 Patients Form Memory CD8+ T Cells that Recognize a Small Set of Shared Immunodominant Epitopes in SARS-CoV-2
+The S1/S2 boundary of SARS-CoV-2 spike protein modulates cell entry pathways and transmission
+Electric-field-driven microfluidics for rapid CRISPR-based diagnostics and its application to detection of SARS-CoV-2
+Point-of-care testing for COVID-19 using SHERLOCK diagnostics
+Development of CRISPR as a prophylactic strategy to combat novel coronavirus and influenza
+Generation of glucocorticoid resistant SARS-CoV-2 T-cells for adoptive cell therapy
+Orthogonal genome-wide screenings in bat cells identify MTHFD1 as a target of broad antiviral therapy
+Functional interrogation of a SARS-CoV-2 host protein interactome identifies unique and shared coronavirus host factors
+CRISPR-based COVID-19 surveillance using a genomically-comprehensive machine learning approach
+An ultrasensitive, rapid, and portable coronavirus SARS-CoV-2 sequence detection method based on CRISPR-Cas12
+Treating Influenza and SARS-CoV-2 via mRNA-encoded Cas13a
+Elucidation of remdesivir cytotoxicity pathways through genome-wide CRISPR-Cas9 screening and transcriptomics
+Development and Evaluation of A CRISPR-based Diagnostic For 2019-novel Coronavirus
+A new role for Biofoundries in rapid prototyping, development, and validation of automated clinical diagnostic tests for SARS-CoV-2
